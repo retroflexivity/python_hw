@@ -3,8 +3,7 @@ book = open(bookname)
 words = 0
 
 for line in book:
-        wordsinline = line[:-1].count(' ') + 1
-        words += wordsinline
-        print(wordsinline)
+    words += (wordsinline := line[:-1].count(' ') + 1)
+    print(wordsinline)
 
-print(words)
+print('Всего:', words)

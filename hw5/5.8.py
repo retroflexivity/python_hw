@@ -1,9 +1,10 @@
+capvows = 'AEIOU'
 bookname = '4300-0.txt'
 book = open(bookname)
-words = 0
 
 for line in book:
-        words += wordsinline := line.count(' ')
-        print(wordsinline)
+    for word in line.split():
+        if word[0] in capvows:
+            print(word)
 
-print(words)
+print('Всего', words)
