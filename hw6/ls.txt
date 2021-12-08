@@ -1,0 +1,6 @@
+6.1.py
+6.2.py
+ls.txt
+sah_yktdt-ud-test.conllu.txt
+verbs.txt
+6.1.py

@@ -1,6 +1,5 @@
 puntctlist = '.,?!:;'
 words = input('Введите предложение').split()
-print(words)
 
 punct = 0
 for word in words:
@@ -9,4 +8,4 @@ for word in words:
             punct += 1
             break
 
-print('Всего слов: ' + str(len(words)) + ', со знаками: ' + str(punct) + ', доля: ' + str(punct / len(words) * 100) + '%')
+print('Всего слов: ' + str(len(words)) + ', со знаками: ' + str(punct) + ', доля: ' + str(round(punct / len(words) * 100, 2)) + '%')

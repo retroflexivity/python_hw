@@ -1,7 +1,8 @@
 bookname = '4300-0.txt'
-booklines = open(bookname).readlines()
+booklines = (file := open(bookname, encoding="utf-8")).readlines()
+file.close()
 
 print('# https://gutenberg.org/files/4300/4300-0.txt')
 print(bookname)
-#так, что ли? странное задание
+# так, что ли? странное задание
 print(len(booklines))

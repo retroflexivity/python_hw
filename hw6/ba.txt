@@ -1,0 +1,1305 @@
+<!DOCTYPE html>
+<!-- (c) Art. Lebedev Studio | http://www.artlebedev.com/ -->
+<html xmlns:perl="urn:perl" lang="ru"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="theme-color" content="#1658DA"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="apple-touch-icon" sizes="180x180" href="/f/src/global/i/favicon/favicon_ios_180x180.png"><link rel="icon" type="image/png" sizes="32x32" href="/f/src/global/i/favicon/favicon_32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/f/src/global/i/favicon/favicon_16x16.png"><link rel="mask-icon" href="/f/src/global/i/favicon/favicon.svg" color="#242f63"><link rel="manifest" href="/f/src/manifest/manifest_ru.json"><meta name="msapplication-config" content="/f/src/global/i/favicon/browserconfig.xml"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"><!--[if lt IE 10]><script src="/f/src/global/bower_components/es5-shim/es5-shim.min.js"></script><![endif]--><link rel="stylesheet" href="/f/src/global/css/main.css?v2" media="all"><link rel="stylesheet" href="/f/src/global/css/vision.css" media="all"><link rel="stylesheet" href="/f/src/global/css/sitemap.css" media="all"><link rel="stylesheet" href="/f/src/global/css/owl.carousel2.min.css" media="all"><link rel="stylesheet" href="/f/src/edu_card/edu_card.css?v3" media="all"><link rel="stylesheet" href="/f/src/promo/gallery-promo.css" media="all"><link rel="stylesheet" href="/f/src/postupi/postupi.css" media="all"><link rel="stylesheet" href="/f/src/edu_card/edu_card2.css" media="all"><script src="//www.hse.ru/f/src/global/js/cache/jquery-1.12.4.min/jquery-ui/jquery.ui.touch-punch.min/hse.utils/errtrack/main/modernizr/popup/switcher/tag/fixes/email-obfuscator/jquery.cookie/vision/jquery.rwdImageMaps.min/sitemap.ajax/jquery.menu-aim/menu-aim-init/jquery.carouFredSel-6.2.1-packed/hs/mag/init-social-carousel/init-media-carousel/owl.carousel2.min/edu-card/edu_mobile/masonry.pkgd.min/imagesloaded.pkgd.min/init-masonry.js"></script><script src="/f/src/global/js/gibs.js"></script><link href="https://www.hse.ru/ba/compds/" rel="canonical"><script src="https://www.hse.ru/f/src/global/js/job.js" async="async"></script><title>Образовательная программа «Компьютерные науки и анализ данных» — Национальный исследовательский университет «Высшая школа экономики»</title><script src="/f/gtm/ip"></script><script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-P6DCQX');
+</script><meta content="Образовательная программа «Компьютерные науки и анализ данных»" property="og:title"><meta content="Образовательная программа «Компьютерные науки и анализ данных»" name="mrc__share_title"><meta content="Образовательная программа «Компьютерные науки и анализ данных»" itemprop="name"><meta content="https://www.hse.ru/images/fb/hse_ru_thumb.jpg" property="og:image"><meta content="https://www.hse.ru/images/fb/hse_ru_thumb.jpg" itemprop="image"><link rel="image_src" content="https://www.hse.ru/images/fb/hse_ru_thumb.jpg"><meta content="https://www.hse.ru/ba/compds/" property="og:url"><meta content="website" property="og:type"><link rel="stylesheet" href="/f/src/projects/edu_card/mobile.css"><script>
+			$(function() {
+				if ($('.from-group').length > 0 ) {
+					$('.from-group').carouFredSel({
+						auto: false,
+						width: '99%',
+						height: 'auto',
+						scroll: 2,
+						align: 'center',
+						items: {
+				 			width: '200',
+							visible: {
+								min: 1,
+								max: 6
+							}
+						},
+						next: {
+							button: function() { return $(this).parent().siblings(".b-group-next")},
+							key: 'right'
+						},
+						prev: {
+							button: function() { return $(this).parent().siblings(".b-group-prev")},
+							key: 'left'
+						}
+					});
+				}
+			});
+		</script></head><body data-lang="ru" data-unit="416767842"><div class="page"><!--noindex--><div style="display:none;" class="browser_outdate">
+				В старых версиях браузеров сайт может отображаться некорректно. Для оптимальной работы с сайтом рекомендуем воспользоваться современным браузером.
+			</div><div style="display:none;" class="gdpr_bar"><div class="gdpr_bar__inner"><noindex>
+<p class="first_child last_child ">Мы используем файлы cookies для улучшения работы сайта НИУ ВШЭ и большего удобства его использования. Более подробную информацию об использовании файлов cookies можно найти <a target="_blank" href="https://www.hse.ru/cookie.html" title="Пройти по ссылке" class="link">здесь</a>, наши правила обработки персональных данных – <a target="_blank" href="https://www.hse.ru/data_protection_regulation" title="Пройти по ссылке" class="link">здесь</a>. Продолжая пользоваться сайтом, вы подтверждаете, что были проинформированы об использовании файлов cookies сайтом НИУ ВШЭ и согласны с нашими правилами обработки персональных данных. Вы можете отключить файлы cookies в настройках Вашего браузера.</p>
+</noindex><span class="gdpr_bar__close">✖</span></div></div><!--/noindex--><div class="sv-control"><div class="sv-control__block"><ul class="sv-control__list sv-size"><li data-type="size" data-value="normal" class="sv-control__item sv-control__item--s_normal active">A</li><li data-type="size" data-value="medium" class="sv-control__item sv-control__item--s_medium">A</li><li data-type="size" data-value="large" class="sv-control__item sv-control__item--s_large">A</li></ul></div><div class="sv-control__block"><ul class="sv-control__list sv-spacing"><li data-type="spacing" data-value="normal" class="active sv-control__item sv-control__item--ls_normal">АБВ</li><li data-type="spacing" data-value="medium" class="sv-control__item sv-control__item--ls_medium">АБВ</li><li data-type="spacing" data-value="large" class="sv-control__item sv-control__item--ls_large">АБВ</li></ul></div><div class="sv-control__block"><ul class="sv-control__list sv-contrast"><li data-type="contrast" data-value="normal" class="sv-control__item sv-control__item---color1 active">А</li><li data-type="contrast" data-value="invert" class="sv-control__item sv-control__item---color2">А</li><li data-type="contrast" data-value="blue" class="sv-control__item sv-control__item---color3">А</li><li data-type="contrast" data-value="beige" class="sv-control__item sv-control__item---color4">А</li><li data-type="contrast" data-value="brown" class="sv-control__item sv-control__item---color5">А</li></ul></div><div class="sv-control__block"><ul class="sv-control__list sv-image"><li data-type="image" data-value="on" class="sv-control__item sv-control__item--image_on active"><li data-type="image" data-value="off" class="sv-control__item sv-control__item--image_off"></ul></div><div class="sv-control__block"><div class="sv-off js-sv-off">Обычная версия сайта</div></div></div><div class="fa-sidebar"><div class="fa-sidebar__top fa-sidebar__top--overlay fa-sidebar__top--secondary" style="background-image:url('/mirror/pubs/share/direct/416769546.png');"><div class="fa-sidebar__controls is-mobile"><ul class="control_lang2"><li class="control_lang2_item first_child activated"><span class="link link_no-visited link_no-underline">RU</span></li><li class="control_lang2_item last_child"><a href="https://www.hse.ru/en/ba/compds/" class="link link_no-visited link_no-underline">EN</a></li></ul><a href="//www.hse.ru/user/" class="control control_user control_white" title="Личный кабинет сотрудника ВШЭ"><ins><svg xmlns="http://www.w3.org/2000/svg" class="control_svg" width="17" height="18" viewBox="0 0 17 18"><path d="M13.702 13.175c.827.315 1.486.817 1.978 1.506.492.689.738 1.467.738 2.333h-16.419c0-1.417.532-2.5 1.595-3.248.394-.276 1.358-.591 2.894-.945.945-.118 1.457-.374 1.536-.768.039-.157.059-.61.059-1.358 0-.118-.039-.217-.118-.295-.157-.157-.315-.433-.472-.827-.079-.315-.157-.787-.236-1.417-.157.039-.285-.02-.384-.177-.098-.157-.177-.364-.236-.62l-.089-.443c-.157-.866-.098-1.28.177-1.24-.118-.157-.217-.532-.295-1.122-.118-.866-.059-1.634.177-2.303.276-.748.768-1.319 1.476-1.713.709-.394 1.476-.571 2.303-.532.787.039 1.506.276 2.156.709.65.433 1.093 1.024 1.329 1.772.197.551.217 1.319.059 2.303-.079.472-.157.768-.236.886.118-.039.207 0 .266.118.059.118.079.266.059.443l-.059.472c-.02.138-.049.246-.089.325l-.118.413c-.039.276-.108.472-.207.591-.098.118-.226.157-.384.118-.079.866-.217 1.476-.413 1.831 0 .039-.069.138-.207.295-.138.157-.207.256-.207.295v.65c0 .394.039.689.118.886.079.197.354.354.827.472.276.118.679.217 1.211.295.532.079.935.177 1.211.295z" fill="#1658DA"></path></svg></ins></a><span class="control control_search control_white js-search_mobile_control"><ins><svg xmlns="http://www.w3.org/2000/svg" class="control_svg" width="19" height="19" viewBox="0 0 19 19"><path d="M12.927 7.9c0-1.384-.492-2.568-1.476-3.552s-2.168-1.476-3.552-1.476-2.568.492-3.552 1.476-1.476 2.168-1.476 3.552.492 2.568 1.476 3.552 2.168 1.476 3.552 1.476 2.568-.492 3.552-1.476 1.476-2.168 1.476-3.552zm4.053 11.1l-4.603-4.592c-1.339.928-2.832 1.391-4.477 1.391-1.07 0-2.093-.208-3.069-.623-.976-.415-1.818-.976-2.525-1.683-.707-.707-1.268-1.549-1.683-2.525-.415-.976-.623-1.999-.623-3.069 0-1.07.208-2.093.623-3.069.415-.976.976-1.818 1.683-2.525.707-.707 1.549-1.268 2.525-1.683.976-.415 1.999-.623 3.069-.623 1.07 0 2.093.208 3.069.623.976.415 1.818.976 2.525 1.683.707.707 1.268 1.549 1.683 2.525.415.976.623 1.999.623 3.069 0 1.646-.464 3.138-1.391 4.477l4.603 4.603-2.031 2.02z" fill="#1658DA"></path></svg></ins></span><span style="cursor:pointer;" onclick="void(0)" class="control is-mobile control_menu control_menu--close js-control_menu_close"><ins></ins></span></div><div class="js-search_mobile_popup not_display is-mobile"><div class="search-form"><form action="/search/search.html"><div class="search-form__button"><button class="button button--merged button_grey">Найти</button></div><div class="search-form__input"><input type="text" name="text" placeholder="Поиск по сайту" class="input fa-search_input input100 input_mr"><input type="hidden" name="simple" value="1"></div></form></div><div class="popup__block"><a href="//www.hse.ru/search/search.html?simple=0" class="link link_white no-visited">Расширенный поиск по сайту</a></div></div><div class="fa-sidebar__title_inner">Компьютерные науки и анализ данных</div></div><ul class="fa-sidemenu fa-sidemenu--primary"><li class="fa-sidemenu__section"><div class="fa-sidemenu__header"><span>Абитуриентам</span></div><ul class="fa-sidemenu__sub"><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/admission/" class="link link_no-underline link_dark2 selected fa-sidemenu__link">Паспорт программы</a></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/tracks" class="link link_no-underline link_dark2 fa-sidemenu__link">Траектории поступления</a></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/requirements" class="link link_no-underline link_dark2 fa-sidemenu__link">Подготовка</a></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/webinars" target="_blank" class="link link_no-underline link_dark2 fa-sidemenu__link">Записи мероприятий</a></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/career" target="_blank" class="link link_no-underline link_dark2 fa-sidemenu__link">Будущая профессия</a></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/discounts_enter" target="_blank" class="link link_no-underline link_dark2 fa-sidemenu__link">Скидки для поступающих</a></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/test" target="_blank" class="link link_no-underline link_dark2 fa-sidemenu__link">Входное тестирование</a></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/blackboard" target="_blank" class="link link_no-underline link_dark2 fa-sidemenu__link">Доска объявлений</a></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/gen_courses" target="_blank" class="link link_no-underline link_dark2 fa-sidemenu__link">Что я буду изучать</a></li></ul></li><li class="fa-sidemenu__section"><div class="fa-sidemenu__header"><span>Студентам</span></div><ul class="fa-sidemenu__sub"><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/students/" class="link link_no-underline link_dark2 selected fa-sidemenu__link">Доска объявлений</a></li><li class="fa-sidemenu__item"><span target="_blank" class="link link_no-underline link_dark2 fa-sidemenu__link fa-sidemenu__link--parent">Первокурсникам</span><i class="fa-sidemenu__arr"></i><div class="fa-sidemenu__popup"><div class="fa-sidemenu__sub"><div class="fa-sidemenu__section"><ul class="fa-sidemenu"><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/freshman" target="_blank" class="link link_no-underline link_dark2 fa-sidemenu__link">To-Do List первокурсника</a></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/bzhd" target="_blank" class="link link_no-underline link_dark2 fa-sidemenu__link">БЖД</a></li></ul></div></div></div></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/transfer" target="_blank" class="link link_no-underline link_dark2 fa-sidemenu__link">Перевод на программу</a></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/spravki" target="_blank" class="link link_no-underline link_dark2 fa-sidemenu__link">Заказ справок</a></li><li class="fa-sidemenu__item"><a href="http://electives.hse.ru/" class="link link_no-underline link_dark2 fa-sidemenu__link">Выбор траектории обучения</a></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/hselang/" class="link link_no-underline link_dark2 fa-sidemenu__link">Дополнительные иностранные языки</a></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/timetable" target="_blank" class="link link_no-underline link_dark2 fa-sidemenu__link">Расписание</a></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/rent" target="_blank" class="link link_no-underline link_dark2 fa-sidemenu__link">Альтернативное размещение</a></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/practice" target="_blank" class="link link_no-underline link_dark2 fa-sidemenu__link">Практическая подготовка</a></li><li class="fa-sidemenu__item"><a href="https://www.hse.ru/ba/compds/discounts" target="_blank" class="link link_no-underline link_dark2 fa-sidemenu__link">Скидки на обучение</a></li></ul></li><li class="fa-sidemenu__section fa-sidemenu__section--add js-sidemenu__section--add"></ul></div><div class="header" style="background-image:url('/mirror/pubs/share/direct/416769546.png');"><div class="crop"><div class="header-top header-top--stoped links-white" style="background-image:url('/mirror/pubs/share/direct/416769546.png');"><div class="left"><span class="control control_sitemap"><span class="control_sitemap__line"></span></span><a href="//www.hse.ru/" class="control control_home_white"><ins><svg xmlns="http://www.w3.org/2000/svg" width="18" height="26" viewBox="0 0 18 26"><path d="M6.66 0l.134.002h1.336c2.639 0 3.745.464 4.994 1.428 1.819 1.424 2.105 3.492 2.105 4.525 0 1.283-.393 2.638-1.356 3.742-.714.856-1.955 2.097-4.388 2.388-1.663.2-2.891.127-3.506.061v-1.306c.273.038.676.074 1.222.074 1.656 0 2.829-.827 3.543-1.719.81-.983.98-1.909 1.015-2.737h-4.555v-1.282h4.515c-.116-.866-.448-1.528-.985-2.179-1.035-1.283-2.499-1.497-3.462-1.497l-6.505-.002-.768-1.498h6.66zm-6.317 26l.804-1.564v-21.844h3.55v21.82h2.508v-8.523h3.276v8.514h2.838v-3.878c0-2.351-.122-5.622-2.77-7.311l1.542-.566c3.194 1.186 4.791 4.283 4.791 8.362v3.428l.804 1.562h-17.344z" fill="#1658DA"></path></svg></ins></a></div><div class="right"><div class="header__controls"><ul class="control_lang2"><li class="control_lang2_item first_child activated"><span class="link link_no-visited link_no-underline">RU</span></li><li class="control_lang2_item last_child"><a href="https://www.hse.ru/en/ba/compds/" class="link link_no-visited link_no-underline">EN</a></li></ul><span class="control control_vision control_white" title="Версия для слабовидящих"><svg xmlns="http://www.w3.org/2000/svg" width="21" height="12" viewBox="0 0 21 12"><path d="M10.5 0c3.438 0 6.937 2.016 10.5 6.047-.844.844-1.383 1.375-1.617 1.594-.234.219-.805.703-1.711 1.453-.906.75-1.641 1.266-2.203 1.547-.563.281-1.305.578-2.227.891-.922.313-1.836.469-2.742.469-1.125 0-2.156-.141-3.094-.422-.938-.281-1.875-.766-2.813-1.453-.938-.688-1.672-1.273-2.203-1.758-.531-.484-1.328-1.273-2.391-2.367 2.031-2.031 3.836-3.539 5.414-4.523 1.578-.984 3.273-1.477 5.086-1.477zm0 10.266c1.156 0 2.148-.422 2.977-1.266.828-.844 1.242-1.844 1.242-3s-.414-2.156-1.242-3c-.828-.844-1.82-1.266-2.977-1.266-1.156 0-2.148.422-2.977 1.266-.828.844-1.242 1.844-1.242 3s.414 2.156 1.242 3c.828.844 1.82 1.266 2.977 1.266zm0-5.766c0 .438.141.797.422 1.078s.641.422 1.078.422c.313 0 .625-.109.938-.328v.328c0 .688-.234 1.273-.703 1.758-.469.484-1.047.727-1.734.727-.688 0-1.266-.242-1.734-.727-.469-.484-.703-1.07-.703-1.758s.234-1.273.703-1.758c.469-.484 1.047-.727 1.734-.727h.375c-.25.313-.375.641-.375.984z" fill="#1658DA"></path></svg></span><a href="//www.hse.ru/user/" class="control control_user control_white" title="Личный кабинет сотрудника ВШЭ"><ins><svg xmlns="http://www.w3.org/2000/svg" class="control_svg" width="17" height="18" viewBox="0 0 17 18"><path d="M13.702 13.175c.827.315 1.486.817 1.978 1.506.492.689.738 1.467.738 2.333h-16.419c0-1.417.532-2.5 1.595-3.248.394-.276 1.358-.591 2.894-.945.945-.118 1.457-.374 1.536-.768.039-.157.059-.61.059-1.358 0-.118-.039-.217-.118-.295-.157-.157-.315-.433-.472-.827-.079-.315-.157-.787-.236-1.417-.157.039-.285-.02-.384-.177-.098-.157-.177-.364-.236-.62l-.089-.443c-.157-.866-.098-1.28.177-1.24-.118-.157-.217-.532-.295-1.122-.118-.866-.059-1.634.177-2.303.276-.748.768-1.319 1.476-1.713.709-.394 1.476-.571 2.303-.532.787.039 1.506.276 2.156.709.65.433 1.093 1.024 1.329 1.772.197.551.217 1.319.059 2.303-.079.472-.157.768-.236.886.118-.039.207 0 .266.118.059.118.079.266.059.443l-.059.472c-.02.138-.049.246-.089.325l-.118.413c-.039.276-.108.472-.207.591-.098.118-.226.157-.384.118-.079.866-.217 1.476-.413 1.831 0 .039-.069.138-.207.295-.138.157-.207.256-.207.295v.65c0 .394.039.689.118.886.079.197.354.354.827.472.276.118.679.217 1.211.295.532.079.935.177 1.211.295z" fill="#1658DA"></path></svg></ins></a><span class="control control_search control_white" title="Поиск"><ins class="popup_opener"><svg xmlns="http://www.w3.org/2000/svg" class="control_svg" width="19" height="19" viewBox="0 0 19 19"><path d="M12.927 7.9c0-1.384-.492-2.568-1.476-3.552s-2.168-1.476-3.552-1.476-2.568.492-3.552 1.476-1.476 2.168-1.476 3.552.492 2.568 1.476 3.552 2.168 1.476 3.552 1.476 2.568-.492 3.552-1.476 1.476-2.168 1.476-3.552zm4.053 11.1l-4.603-4.592c-1.339.928-2.832 1.391-4.477 1.391-1.07 0-2.093-.208-3.069-.623-.976-.415-1.818-.976-2.525-1.683-.707-.707-1.268-1.549-1.683-2.525-.415-.976-.623-1.999-.623-3.069 0-1.07.208-2.093.623-3.069.415-.976.976-1.818 1.683-2.525.707-.707 1.549-1.268 2.525-1.683.976-.415 1.999-.623 3.069-.623 1.07 0 2.093.208 3.069.623.976.415 1.818.976 2.525 1.683.707.707 1.268 1.549 1.683 2.525.415.976.623 1.999.623 3.069 0 1.646-.464 3.138-1.391 4.477l4.603 4.603-2.031 2.02z" fill="#1658DA"></path></svg></ins><div class="popup popup_search not_display"><div class="popup__inner"><div class="search-form"><form action="https://www.hse.ru/ba/compds/search/search.html"><div class="search-form__button"><button class="button button_grey ">Найти</button></div><div class="search-form__input"><input type="text" name="text" placeholder="Поиск по сайту" class="input input100 input_mr"><input type="hidden" name="simple" value="1"><input type="hidden" name="searchid" value="2284688"></div></form></div><div class="popup__block popup__block_indent"><a href="//www.hse.ru/search/search.html?simple=0&amp;searchid=2284688" class="link link_dark no-visited">Расширенный поиск по сайту</a><span class="b-adv-search"></span></div></div></div></span><span style="cursor:pointer;" onclick="void(0)" class="control is-mobile control_menu js-control_menu_open"><ins></ins><span class="control__text">Меню</span></span></div></div><div class="header_body"><div class="header_breadcrumb"><div class="header_breadcrumb__inner is-mobile no_crumb_arrow"><a class="link_white no-visited link" href="https://www.hse.ru">Высшая школа экономики</a></div><div class="header_breadcrumb__inner is-desktop no_crumb_arrow"><ul class="header_breadcrumb__list"><li class="header_breadcrumb__item"><a href="//www.hse.ru" class="link no-visited header_breadcrumb__link"><span>Национальный исследовательский университет «Высшая школа экономики»</span></a></li><li class="header_breadcrumb__item"><a href="https://www.hse.ru/education/bachelor/" class="link no-visited header_breadcrumb__link"><span>Образовательные программы бакалавриата</span></a></li><li class="header_breadcrumb__item"><a href="https://cs.hse.ru/" class="link no-visited header_breadcrumb__link"><span>Факультет компьютерных наук</span></a></li><li class="header_breadcrumb__item"><span><span class="breadcrumb_current">Образовательная программа «Компьютерные науки и анализ данных»</span></span></li></ul></div></div></div></div><div class="header-board row"><div class="extra-left"><div class="g-day g-day_black g-day_right g-day_compact c is-desktop g-day--large g-day__extended"><div class="first_child g-day__wrap"><span class="g-day__title">11</span><span class="g-day__subtitle">декабря</span></div><div class="g-day__text"><a href="https://cs.hse.ru/announcements/519764153.html" class="link">Online день программы</a></div></div><div class="header-content"><div>Бакалаврская программа</div><h1 class="first_child">Компьютерные науки и анализ данных</h1><div class="with-indent2 links-white head-hint"><div class="with-indent lead-in _builder builder--text"><p class="first_child ">Первая полностью дистанционная программа по Computer Science от Высшей школы экономики.</p><p>Интерактивное общение, проектная работа, перспективная отрасль. Диплом бакалавра НИУ ВШЭ.</p><p class="last_child "> </p></div>
+      <style> .header .button_custom-orange {background: #E28331!important;} .header .button_custom-white  {background: white!important; color: #E28331 } </style>
+      <div class="with-indent5 _builder builder--text"><div class="with-indent2"><a class="button button_large button_custom-orange c" href="https://www.hse.ru/ba/compds/polls/416795471.html">Поступить </a>&nbsp; <a class="button button_large button_preview button_custom-white" href="https://www.hse.ru/ba/compds/polls/416795726.html"><span style="color: #E28331">Задать вопрос</span></a></div> </div>
+    </div><div class="menu edu-menu"><ul class="navigation navigation_horizontal navigation_newl"><li class="selected single"><span class="icon icon-home"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="15" viewBox="0 0 16 15"><path fill="#000" fill-rule="evenodd" d="M6.122 14.692h-3.75V7.346H0L7.958 0l7.959 7.346h-2.373v7.346h-3.75V9.795H6.123z"></path></svg></span></li><li class=""><a href="https://www.hse.ru/ba/compds/admission/" class="link link_no-underline"><span class="link">Абитуриентам</span></a><i class="nav-arr"></i><ul class="navigation_newl-sub navigation_newl-sub_1 navigation_newl-select0"><li><a href="https://www.hse.ru/ba/compds/admission/" class="link">Паспорт программы</a></li><li class="single"><a href="https://www.hse.ru/ba/compds/tracks" class="link link_no-underline"><span class="link">Траектории поступления</span></a></li><li class="single"><a href="https://www.hse.ru/ba/compds/requirements" class="link link_no-underline"><span class="link">Подготовка</span></a></li><li class="single"><a href="https://www.hse.ru/ba/compds/webinars" target="_blank" class="link link_no-underline"><span class="link">Записи мероприятий</span></a></li><li class="single"><a href="https://www.hse.ru/ba/compds/career" target="_blank" class="link link_no-underline"><span class="link">Будущая профессия</span></a></li><li class="single"><a href="https://www.hse.ru/ba/compds/discounts_enter" target="_blank" class="link link_no-underline"><span class="link">Скидки для поступающих</span></a></li><li class="single"><a href="https://www.hse.ru/ba/compds/test" target="_blank" class="link link_no-underline"><span class="link">Входное тестирование</span></a></li><li class="single"><a href="https://www.hse.ru/ba/compds/blackboard" target="_blank" class="link link_no-underline"><span class="link">Доска объявлений</span></a></li><li class="single"><a href="https://www.hse.ru/ba/compds/gen_courses" target="_blank" class="link link_no-underline"><span class="link">Что я буду изучать</span></a></li></ul></li><li class=""><a href="https://www.hse.ru/ba/compds/students/" class="link link_no-underline"><span class="link">Студентам</span></a><i class="nav-arr"></i><ul class="navigation_newl-sub navigation_newl-sub_1 navigation_newl-select0"><li><a href="https://www.hse.ru/ba/compds/students/" class="link">Доска объявлений</a></li><li class=""><a href="" target="_blank" class="link link_no-underline"><span class="link pseudo_link sub_link">Первокурсникам</span></a><i class="nav-arr"></i><ul class="navigation_newl-sub navigation_newl-sub_2 navigation_newl-select0"><li class="single"><a href="https://www.hse.ru/ba/compds/freshman" target="_blank" class="link link_no-underline"><span class="link">To-Do List первокурсника</span></a></li><li class="single"><a href="https://www.hse.ru/ba/compds/bzhd" target="_blank" class="link link_no-underline"><span class="link">БЖД</span></a></li></ul></li><li class="single"><a href="https://www.hse.ru/ba/compds/transfer" target="_blank" class="link link_no-underline"><span class="link">Перевод на программу</span></a></li><li class="single"><a href="https://www.hse.ru/ba/compds/spravki" target="_blank" class="link link_no-underline"><span class="link">Заказ справок</span></a></li><li class="single"><a href="http://electives.hse.ru/" class="link link_no-underline"><span class="link">Выбор траектории обучения</span></a></li><li class="single"><a href="https://www.hse.ru/hselang/" class="link link_no-underline"><span class="link">Дополнительные иностранные языки</span></a></li><li class="single"><a href="https://www.hse.ru/ba/compds/timetable" target="_blank" class="link link_no-underline"><span class="link">Расписание</span></a></li><li class="single"><a href="https://www.hse.ru/ba/compds/rent" target="_blank" class="link link_no-underline"><span class="link">Альтернативное размещение</span></a></li><li class="single"><a href="https://www.hse.ru/ba/compds/practice" target="_blank" class="link link_no-underline"><span class="link">Практическая подготовка</span></a></li><li class="single"><a href="https://www.hse.ru/ba/compds/discounts" target="_blank" class="link link_no-underline"><span class="link">Скидки на обучение</span></a></li></ul></li></ul></div></div></div></div></div></div><div class="g-day g-day--edu g-day_compact is-mobile c"><div class="g-day"><div class="g-day__inner"><div class="g-day__day">11</div><div class="g-day__month">Декабрь</div></div></div><div class="g-day__desc"><a href="https://cs.hse.ru/announcements/519764153.html" class="link link_dark">Online день программы</a></div></div><div class="layout wide"><div class="grid grid_3"><div class="sidebar sidebar_clean education_sidebar"><div class="sidebar__inner sidebar__normal"><div class="b-program__side"><ul class="navigation navigation_newl-side"><li class="single b is-mobile">Главная:</li></ul><div class="with-indent1 b-program__side-button b-program__buttons_ref"><a style="border-radius: 6px;" class="button button_green button_large u-accent" href="https://ba.hse.ru/">Приемная комиссия</a></div><div class="with-indent1 b-program__side-button b-program__buttons_ref"><a style="border-radius: 6px;" class="button button_blue button_large u-accent" href="https://admissions.hse.ru/undergraduate-apply">Для иностранных абитуриентов</a></div><div class="with-indent1 b-program__side-button b-program__download"><a style="border-radius: 6px;" class="button button_clean button_large u-accent" href="/data/2021/02/02/1363239541/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B0%D1%83%D0%BA%D0%B8%20%D0%B8%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_2021.pdf">Скачать буклет</a></div><div class="with-indent4"><ul class="navigation icon_set1"><li><a href="https://www.hse.ru/ba/compds/courses" class="link icon_sprite3">Учебные курсы</a></li><li><a href="https://www.hse.ru/ba/compds/tutors" class="link icon_sprite5">Преподаватели</a></li><li><a href="https://www.hse.ru/ba/compds/vacant" class="link icon_sprite1">Число студентов и вакантные места</a></li><li><a href="https://www.hse.ru/ba/compds/documents" class="link icon_sprite3">Документы образовательной программы</a></li><li><a href="https://www.hse.ru/ba/compds/timetable" class="link icon_sprite2">Расписание</a></li></ul></div><div class="b-program__persons"><div class="b-program__side-persons-group"><div class="b-peoples__person"><div class="g-pic g-pic_small"><a href="//www.hse.ru/org/persons/209508745" class="link link_no-underline"><img src="https://www.hse.ru/org/persons/cimage/209508745"></a></div><div class="b-peoples__person-position">Академический руководитель</div><div class="b"><a href="//www.hse.ru/org/persons/209508745" class="link">Трушин Дмитрий Витальевич</a></div><div class="b-peoples__person-about"></div></div><div class="b-peoples__person"><div class="g-pic g-pic_small"><a href="//www.hse.ru/org/persons/225512413" class="link link_no-underline"><img src="https://www.hse.ru/org/persons/cimage/225512413"></a></div><div class="b-peoples__person-position">Менеджер</div><div class="b"><a href="//www.hse.ru/org/persons/225512413" class="link">Андронова Екатерина Юрьевна</a></div><div class="b-peoples__person-about"></div></div></div></div><div class="js-program__side-info-group"><div class="b-program__side-info with-indent4"><div class="b-program__side-info"><h6>Контакты</h6><p><span class="with-icon with-icon_flag-msk">Москва</span></p>
+
+<p>Покровский бульвар, 11, корпус S, каб. S816</p>
+
+<p>Телефон:<br>
++7 (495) 772-95-90 * 28389</p>
+
+<p>Email:<a class="link" href="mailto:compds@hse.ru">compds@hse.ru</a></p>
+</div></div></div><div class="b-program__side-info with-indent4"><div class="b-program__side-info"><p><a class="link_no-underline" href="https://www.topuniversities.com/university-rankings/university-subject-rankings/2021/computer-science-information-systems" target="_blank" rel="nofollow"><img src="/pubs/share/direct/450604176.png" style="max-width: 100%;" title="QS Rankings by subject, Computer Science &amp; Information Systems" alt="QS Rankings by subject, Computer Science &amp; Information Systems"></a></p><p><a class="link_no-underline" href="https://www.timeshighereducation.com/world-university-rankings/2021/subject-ranking/computer-science" target="_blank" rel="nofollow"><img src="/pubs/share/direct/454913600.png" style="max-width: 100%;" title="THE World University Rankings by subject/Computer Science" alt="THE World University Rankings by subject/Computer Science"></a></p></div></div><div class="b-program__side-info with-indent4"><a href="https://lk.hse.ru/user-suggestions" class="link link_no-underline button-aside" onclick="event.preventDefault(); $(this).next().slideDown();"><img src="/f/src/global/i/btn-example.png"></a><ul style="display: none;" class="g-ul g-list"><li><a href="https://lk.hse.ru/user-suggestions">Администрация</a></li><li><a href="https://www.hse.ru/expresspolls/poll/208020776.html">Студсовет</a></li></ul><dl class="dl_closer"><dt class="b">Выразительная кнопка</dt><dd>для срочных сообщений</dd></dl></div><div class="b-side b-side_bt "><div class="b-side__inner"><ul class="first_child last_child navigation"><li><a href="https://t.me/hse_compds" class="with-icon with-icon_tg-blue link"></a></li></ul></div></div><div class="b-side b-side_bt "><div class="b-side__inner"><script type="text/javascript" src="//yastatic.net/share2/share.js" charset="utf-8" async="async"></script><div class="last_child ya-share2" data-services="facebook,vkontakte,twitter,telegram,whatsapp,viber" data-limit="6" data-lang="ru" data-title="Образовательная программа «Компьютерные науки и анализ данных»" data-image="https://www.hse.ru/images/fb/hse_ru_thumb.jpg" data-url="https://www.hse.ru/ba/compds/"></div></div></div></div><div class="b-side b-side_notice"><div class="b-side__inner"><br><!--noindex--><span class="with-icon with-icon_tick"> </span><p class="last_child with-indent">
+				Нашли <span class="wrong">опечатку</span>?<br>
+				Выделите её, нажмите Ctrl+Enter и отправьте нам уведомление. Спасибо за участие!<br>
+				Сервис предназначен только для отправки сообщений об орфографических и пунктуационных ошибках.
+			</p><!--/noindex--><script type="text/javascript">
+			(function() {
+				var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+				s.src = '/f/src/_/jquery.orfo.js';
+				s.onload = s.onreadystatechange = function() {
+					if ($.fn.hseOrfo) {	// old IE...
+						$(document).hseOrfo({
+							'lang': 'ru'
+						});
+					}
+				};
+				var t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(s, t);
+			})();
+		</script></div></div></div></div><div class="main content"><div class="content__inner content__inner--preview content__inner_foot1 extra-left">
+      <div class="builder-section"><div class="b-row b-row--wrap u-rel"><div class="with-indent2 b-row__item b-row__item--size_3 b-row__item--t6" style="padding-left: 2em;"><div class="b-program_bigger b-program-item_duration b-program-item_"><div>       4&nbsp;года <svg xmlns="http://www.w3.org/2000/svg" class="b-inline-icon" viewBox="0 0 18 22" fill-rule="evenodd" clip-rule="evenodd"><g stroke="#000" stroke-width="1.5" fill="none" style="width: 26px;"><path d="M10.854 1.5h-4.479"></path><circle cx="8.466" cy="12.656" r="7.716"></circle><path d="M5.762 11.625l2.704 2.336 7.716-7.757"></path></g></svg>     </div></div><div class="b-program_small b-program_black">Очная форма обучения</div></div><div class="with-indent2 b-row__item b-row__item--size_3 b-row__item--t6" style="padding-left: 2em;"><div class="b-program_bigger b-program-item_span b-program-item_"><div>440 000&nbsp; <span class="smallest"> руб. за год обучения </span>     </div></div><div class="b-program_small b-program_black"><div>   </div>  <div class="with-indent6"><a href="" class="link link_dark2 no-visited"> </a></div></div></div><div class="with-indent2 b-row__item b-row__item--size_3 b-row__item--t6" style="padding-left: 2em;"><div class="b-program_bigger b-program-item_languages b-program-item_"><div>       <span class="b-program__lang">RUS</span><span class="b-program__lang">ENG</span>     </div></div><div class="b-program_small b-program_black">Обучение ведётся на русском и английском языках </div></div><div class="with-indent2 b-row__item b-row__item--size_3 b-row__item--t6" style="padding-left: 2em;"><div class="b-program_bigger b-program-item_certification b-program-item_"><div>       <div class="features-list" style="min-height: 50px;"><div class="features-item"><a class="link link_dark link_no-underline no-visited" href="https://www.hse.ru/en/ba/icef/certification">Государственная аккредитация</a></div></div>     </div></div><div class="b-program_small b-program_black"></div></div></div></div>
+      
+      <div class="with-indent5 _builder builder--text"><h2 class="block-title">О чем программа «Компьютерные науки и анализ данных»</h2><p>Программа нацелена на подготовку разработчиков программного обеспечения и &nbsp;специалистов по компьютерным наукам и анализу данных по направлениям:</p> </div>
+      
+<style>._row {
+    position: relative;
+}
+
+@media (min-width: 768px) {
+    .b-row__item--size_2 .person-avatar,
+    .b-row__item--size_3 .person-avatar,
+    .b-row__item--size_4 .person-avatar {
+        width: 100%;
+        height: 0;
+        padding-bottom: 100%;
+        box-sizing: border-box;
+    }
+}
+
+.b-row__item .splash_preview {
+    margin-right: 0;
+}
+
+.b-row__item .splash_preview__item {
+    width: auto;
+    flex: 0 0 100%;
+    margin: 0 0 10px;
+}</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="_row promo-section builder-section--with_indent0">
+        
+         
+        <div class="b-row">
+            
+                
+                    <div class="b-row__item  b-row__item--size_6">
+			
+	 
+	<div class="builder-section builder-section--with_indent0">
+		
+		<style type="text/css">.wdj-digit_block {
+    box-sizing: border-box;
+    line-height: 16px;
+    padding: 1em 2em 1em 0;
+}
+
+@media (max-width: 767px) {
+    .wdj-digit_block.wdj-digit_block {
+        padding-right: 1em;
+    }
+}
+
+.wdj-digit_block__digit {font-size: 330%; font-family: 'FuturaPTWebDemi', "Helvetica Neue", Arial, sans-serif; letter-spacing: -2px; line-height: 0.8;  white-space: nowrap; margin-bottom: .1em;}
+.wdj-digit_block__text {font-size: 13px; font-family: 'FuturaPTWebDemi', "Helvetica Neue", Arial, sans-serif; text-transform: uppercase; letter-spacing: 0px;}
+</style>
+<div class="wdj-digit_block" style="margin-bottom: 1em;">
+<div class="wdj-digit_block__digit"><span style="color: #003399">1</span></div>
+
+<div class="title wdj-digit_block__text">Машинное обучение и приложения</div>
+</div>
+
+	</div>
+
+
+		</div>
+                
+            
+                
+                    <div class="b-row__item  b-row__item--size_6">
+			
+	 
+	<div class="builder-section builder-section--with_indent0">
+		
+		<style type="text/css">.wdj-digit_block {
+    box-sizing: border-box;
+    line-height: 16px;
+    padding: 1em 2em 1em 0;
+}
+
+@media (max-width: 767px) {
+    .wdj-digit_block.wdj-digit_block {
+        padding-right: 1em;
+    }
+}
+
+.wdj-digit_block__digit {font-size: 330%; font-family: 'FuturaPTWebDemi', "Helvetica Neue", Arial, sans-serif; letter-spacing: -2px; line-height: 0.8;  white-space: nowrap; margin-bottom: .1em;}
+.wdj-digit_block__text {font-size: 13px; font-family: 'FuturaPTWebDemi', "Helvetica Neue", Arial, sans-serif; text-transform: uppercase; letter-spacing: 0px;}
+</style>
+<div class="wdj-digit_block" style="margin-bottom: 1em;">
+<div class="wdj-digit_block__digit"><span style="color: #003399">2</span></div>
+
+<div class="title wdj-digit_block__text">Промышленное программирование</div>
+</div>
+
+	</div>
+
+
+		</div>
+                
+            
+        </div>
+        
+            
+        
+            
+        
+    </div>
+
+      <div class="with-indent5 _builder builder--text"><p>Наши специализации учитывают два востребованных направления Computer Science. Мы предлагаем полноценную образовательную программу по компьютерным наукам, которая реализуется в дистанционном формате с традиционно высоким качеством образования.</p>  <p>&nbsp;</p> </div>
+      
+<style>._row {
+    position: relative;
+}
+
+@media (min-width: 768px) {
+    .b-row__item--size_2 .person-avatar,
+    .b-row__item--size_3 .person-avatar,
+    .b-row__item--size_4 .person-avatar {
+        width: 100%;
+        height: 0;
+        padding-bottom: 100%;
+        box-sizing: border-box;
+    }
+}
+
+.b-row__item .splash_preview {
+    margin-right: 0;
+}
+
+.b-row__item .splash_preview__item {
+    width: auto;
+    flex: 0 0 100%;
+    margin: 0 0 10px;
+}</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="_row promo-section builder-section--with_indent0">
+        
+         
+        <div class="b-row">
+            
+                
+                    <div class="b-row__item  b-row__item--size_6">
+			
+	
+	
+
+
+
+
+
+
+
+
+    
+    
+    <!-- Кнопка -->
+    <p class="promo-section">
+        <a class="button button_large button_wide button_blue c" href="https://www.hse.ru/ba/compds/polls/416795471.html">
+            Поступить
+        </a>
+    </p>
+
+
+
+
+
+		</div>
+                
+            
+                
+                    <div class="b-row__item  b-row__item--size_6">
+			
+	
+	
+
+
+
+
+
+
+
+
+    
+    
+    <!-- Кнопка -->
+    <p class="promo-section">
+        <a class="button button_large button_wide button_blue c" href="https://www.hse.ru/ba/compds/polls/416795726.html">
+            Задать вопрос
+        </a>
+    </p>
+
+
+
+
+
+		</div>
+                
+            
+        </div>
+        
+            
+        
+            
+        
+    </div>
+
+      <style>  @import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);  ul.icons > li.icon {padding-left: 2em;}  ul > li.icon::before {float: left; font-size: 150%; color:#003399; margin-left: -1.25em;} @media (max-width: 767px) {  ul > li.icon::before { margin-left: 0; padding-right: .3em} } </style>
+      <div class="with-indent5 _builder builder--text"><h3>Как будет вестись обучение по программе</h3>  <ul class="icons">  <li class="icon ion-ios-checkmark-outline">время проведения занятий подбирается с учетом временных поясов;</li>  <li class="icon ion-ios-checkmark-outline">лекции, семинары и практические занятия по фиксированному расписанию с использованием дистанционных технологий;</li>  <li class="icon ion-ios-checkmark-outline">синхронный формат работы с возможностью задать вопрос преподавателю;</li>  <li class="icon ion-ios-checkmark-outline">обучение&nbsp;с самого первого занятия с помощью программ ZOOM и MS Teams;</li>  <li class="icon ion-ios-checkmark-outline">контрольные работы, экзамены или коллоквиумы онлайн под наблюдением прокторов.</li> </ul> </div>
+      <hr class="separ with-indent4">
+      <div class="with-indent5 _builder builder--text"><h3>Наши преимущества&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b></h3>  <ul class="icons">  <li class="icon ion-ios-checkmark-outline">Полноценная бакалаврская программа по Computer Science в дистанционном формате</li>  <li class="icon ion-ios-checkmark-outline">Преподаватели &ndash; эксперты отрасли и ведущие ученые НИУ ВШЭ</li>  <li class="icon ion-ios-checkmark-outline">Синхронные занятия и живое общение с преподавателями и одногруппниками</li>  <li class="icon ion-ios-checkmark-outline">Записи для повторного просмотра по дисциплинам</li>  <li class="icon ion-ios-checkmark-outline">Диплом НИУ ВШЭ государственного образца</li> </ul> </div>
+      <hr class="separ with-indent4">
+      <div class="with-indent5 _builder builder--text"><h3>Перспективы нашей программы</h3>  <p>В результате обучения выдается диплом государственного образца по направлению &laquo;Прикладная математика и информатика&raquo; с присвоением степени бакалавра.</p>  <p>Наши выпускники работают:</p>  <ul class="icons">  <li class="icon ion-ios-checkmark-outline">в компаниях-производителях программного обеспечения (Яндекс, Microsoft, Google, Facebook, ABBYY, SAP, SAS, Лаборатория Касперского, Крок и т.д.);</li>  <li class="icon ion-ios-checkmark-outline">в IT-отделах и отделах по работе с большими данными крупных компаний (Билайн, МТС, Озон);</li>  <li class="icon ion-ios-checkmark-outline">в банковском, инвестиционном и страховом бизнесе (Сбербанк, Тинькофф Банк, Альфа-Банк, World Quant, Московская биржа);</li>  <li class="icon ion-ios-checkmark-outline">в бизнес-консалтинге (PWC, McKinsey &amp; Co, Accenture, BCG);</li>  <li class="icon ion-ios-checkmark-outline">в исследовательских центрах и университетах (Samsung AI Center, Центр глубинного обучения и байесовских методов ВШЭ, Skoltech);</li>  <li class="icon ion-ios-checkmark-outline">в IT стартапах (Prisma Labs, Zerion, Boston Gene).</li> </ul> </div>
+      <hr class="separ with-indent4">
+      
+<style>._row {
+    position: relative;
+}
+
+@media (min-width: 768px) {
+    .b-row__item--size_2 .person-avatar,
+    .b-row__item--size_3 .person-avatar,
+    .b-row__item--size_4 .person-avatar {
+        width: 100%;
+        height: 0;
+        padding-bottom: 100%;
+        box-sizing: border-box;
+    }
+}
+
+.b-row__item .splash_preview {
+    margin-right: 0;
+}
+
+.b-row__item .splash_preview__item {
+    width: auto;
+    flex: 0 0 100%;
+    margin: 0 0 10px;
+}</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="_row promo-section _with-indent4 builder-section--bottom0">
+        <h2 class="builder-section__title">Требования к поступающим</h2>
+         
+        <div class="b-row">
+            
+                
+                    <div class="b-row__item  b-row__item--size_6">
+			
+	 
+	<div class="builder-section builder-section--with_indent0">
+		
+		<p><img alt="" src="/mirror/pubs/share/414906654" style="width: 80px; height: 60px;" /><br />
+Прием осуществляется по результатам ЕГЭ (математика, информатика, русский язык) или по личным достижениям в виде побед на олимпиадах.</p>
+
+	</div>
+
+
+		</div>
+                
+            
+                
+                    <div class="b-row__item  b-row__item--size_6">
+			
+	 
+	<div class="builder-section builder-section--with_indent0">
+		
+		<p><img alt="" src="/mirror/pubs/share/414906698" style="height: 60px;" /><br />
+Учитываются олимпиады по математике (I, II, III), информатике (I, II), физике (I), русскому языку (I, II).</p>
+
+	</div>
+
+
+		</div>
+                
+            
+        </div>
+        
+            
+        
+            
+        
+    </div>
+
+      
+<style>._row {
+    position: relative;
+}
+
+@media (min-width: 768px) {
+    .b-row__item--size_2 .person-avatar,
+    .b-row__item--size_3 .person-avatar,
+    .b-row__item--size_4 .person-avatar {
+        width: 100%;
+        height: 0;
+        padding-bottom: 100%;
+        box-sizing: border-box;
+    }
+}
+
+.b-row__item .splash_preview {
+    margin-right: 0;
+}
+
+.b-row__item .splash_preview__item {
+    width: auto;
+    flex: 0 0 100%;
+    margin: 0 0 10px;
+}</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="_row promo-section builder-section--with_indent0">
+        
+         
+        <div class="b-row">
+            
+                
+                    <div class="b-row__item  b-row__item--size_6">
+			
+	
+	
+
+
+
+
+
+
+
+
+    
+    
+    <!-- Кнопка -->
+    <p class="promo-section">
+        <a class="button button_large button_wide button_blue c" href="https://www.hse.ru/ba/compds/polls/416795471.html">
+            Поступить
+        </a>
+    </p>
+
+
+
+
+
+		</div>
+                
+            
+                
+                    <div class="b-row__item  b-row__item--size_6">
+			
+	
+	
+
+
+
+
+
+
+
+
+    
+    
+    <!-- Кнопка -->
+    <p class="promo-section">
+        <a class="button button_large button_wide button_blue c" href="https://www.hse.ru/ba/compds/polls/416795726.html">
+            Задать вопрос
+        </a>
+    </p>
+
+
+
+
+
+		</div>
+                
+            
+        </div>
+        
+            
+        
+            
+        
+    </div>
+
+      <style>
+			.owl-splash.owl-splash {
+				display: block;
+				padding-left: 0;
+				padding-right: 0;
+				box-sizing: border-box;
+				margin-bottom: 2em;
+			}
+			@media (max-width: 767px) {
+				.owl-splash.owl-splash {
+					padding: 0;
+				}
+			}
+			.owl-splash.owl-carousel.owl-theme .owl-nav [class*=owl-]:hover {
+				background: none;
+			}
+			.owl-splash.owl-carousel.owl-theme .owl-nav [class*=owl-] {
+				width: 22px;
+				height: 40px;
+				margin-top: -20px;
+				position: absolute;
+				top: 40%;
+				background: none;
+			}
+			.owl-splash.owl-theme .owl-prev {left: 10px;}
+			.owl-splash.owl-theme .owl-next {right: 10px;}
+
+			.owl-splash .owl-item:not(.active) .item::after {
+				content: "";
+				position: absolute;
+				top: 0;
+				right: 0;
+				bottom: 0;
+				left: 0;
+				background: rgba(255, 255, 255, 0.75);
+			}
+			.owl-splash .owl-item {padding: 1em 0 2em;}
+			.owl-splash .item {
+				position: relative;
+				background: white;
+				padding: 2em 4em;
+				border-radius: 6px;
+				box-shadow: 0 5px 30px rgba(0,0,0,.1)
+			}
+			@media (max-width: 767px) {
+				.owl-splash .item {
+					padding: 2em 1em;
+					margin: 1em 0;
+				}
+			}
+			.owl-splash .item > *:not(:first-child) {
+				margin-top: 1em;
+			}
+			.owl-prev::after, .owl-next::after {
+				content: none;
+			}
+			</style><script>
+		$(function() {
+			function initOwlCarousel() {
+				var mediaMobile = window.matchMedia("(max-width: 767px)"); //mobile: true
+				var owl = $("#8fd4265f-764a-45c7-b8c9-4209206f7f4c");
+				if(window.matchMedia && !mediaMobile.matches) {
+					owl.owlCarousel({
+						items : 1,
+						nav: true,
+						dots: true,
+						loop: true,
+						margin: 40,
+						stagePadding: 10,
+						autoplay: true,
+						autoplayHoverPause: true,
+						autoplayTimeout: 5000,
+						responsiveRefreshRate : 200,
+						navText: ['<svg width="100%" height="100%" viewBox="0 0 11 20"><path style="fill:none;stroke-width: 2px;stroke: #000;" d="M9.554,1.001l-8.607,8.607l8.607,8.606"></path></svg>','<svg width="100%" height="100%" viewBox="0 0 11 20" version="1.1"><path style="fill:none;stroke-width: 2px;stroke: #000;" d="M1.054,18.214l8.606,-8.606l-8.606,-8.607"></path></svg>'],
+					});
+					owl.mouseover(function(){
+						owl.trigger('stop.owl.autoplay')
+					});
+				} else if (window.matchMedia && mediaMobile.matches) {
+					owl.trigger('destroy.owl.carousel');;
+				}
+			}
+			initOwlCarousel();
+
+			$(window).resize(function(){
+				initOwlCarousel();
+			});
+		});
+		</script><div class="owl-splash owl-carousel owl-theme wider" id="8fd4265f-764a-45c7-b8c9-4209206f7f4c"><div class="item "><h3 style="color: #000000">Преподаватели</h3><div class="annotation"><div class="columns"> <div class="column column5_1234"> <p><a href="https://www.hse.ru/org/persons/209508745">Трушин Дмитрий Витальевич</a> &ndash; к.ф-м.н, доцент Департамента больших данных и информационного поиска факультета компьютерных наук</p> </div>  <div class="column column5_5"> <p><img alt="" class="g-pic" src="/mirror/pubs/share/416772865" /></p> </div> </div> </div><div class="columns"></div></div></div>
+      <style>
+		.owl-splash.owl-splash {
+			display: block;
+			padding-left: 0;
+			padding-right: 0;
+			box-sizing: border-box;
+			margin-bottom: 2em;
+		}
+		@media (max-width: 767px) {
+			.owl-splash.owl-splash {
+				padding: 0;
+			}
+		}
+		.owl-splash.owl-carousel.owl-theme .owl-nav [class*=owl-]:hover {
+			background: none;
+		}
+		.owl-splash.owl-carousel.owl-theme .owl-nav [class*=owl-] {
+			width: 22px;
+			height: 40px;
+			margin-top: -20px;
+			position: absolute;
+			top: 40%;
+			background: none;
+		}
+		.owl-splash.owl-theme .owl-prev {left: 10px;}
+		.owl-splash.owl-theme .owl-next {right: 10px;}
+
+		.owl-splash .owl-item:not(.active) .item::after {
+			content: "";
+			position: absolute;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			background: rgba(255, 255, 255, 0.75);
+		}
+		.owl-splash .owl-dots {
+			text-align: left;
+		}
+		.owl-splash .owl-item {padding: 1em 0;}
+		.owl-splash .item {
+			position: relative;
+			background: white;
+			padding: 2em 4em;
+			border-radius: 6px;
+			box-shadow: 0 5px 20px rgba(0,0,0,.1)
+		}
+		@media (max-width: 767px) {
+			.owl-splash .item {
+				padding: 2em 1em 2em 4em;
+				margin: 1em 0;
+			}
+		}
+		.owl-splash .owl-splash .item > *:not(:first-child) {
+			margin-top: 1em;
+		}
+		.owl-splash .owl-prev::after, .owl-next::after {
+			content: none;
+		}
+		.g-pic--50 {
+			width: 50px !important;
+			height: 50px !important;
+		}
+
+		.g-pic--50 img {
+			width: 100%;
+			height: auto;
+		}
+
+		.citation {
+			position: relative;
+		}
+
+		@media (max-width: 767px) {
+			.citation {
+				line-height: normal;
+			}
+		}
+
+		.citation::before {
+			content: '”';
+			position: absolute;
+			left: -50px;
+			width: 33px;
+			height: 33px;
+			font: 66px/1 Arial, sans-serif;
+			font-weight: 900;
+		}
+
+		.small_person_box {
+			margin: .5rem 0 0;
+			display: inline-block;
+			vertical-align: top;
+			box-sizing: border-box;
+			padding-right: 1rem;
+			padding-left: 1rem;
+			width: 40%;
+			font-size: 80%;
+		}
+	</style><div class="owl-splash owl-carousel owl-theme wider" id="e0404a75-84d3-46a4-a300-66f656e30309"><div class="item"><div class="citation h3">Никогда еще серьезное образование в области компьютерных наук не было таким доступным.</div><div class="with-indent2"><div class="g-pic g-pic--50"><span><img alt="" src="/pubs/share/direct/416773160.jpg"></span></div><div class="small_person_box"><span class="b">Д.В. Трушин</span>,
+								<div>Академический руководитель</div></div></div></div></div>
+      
+<style>.foldable_block__item {
+    font-size: 1.4rem;
+}
+
+.foldable_block_h1,
+.foldable_block_h2,
+.foldable_block_h3,
+.foldable_block_h4,
+.foldable_block_h5,
+.foldable_block_h6 {
+    font-family: 'FuturaPTWebDemi', "Helvetica Neue", Arial, sans-serif;
+}
+
+.foldable_block_h1 {
+    font-size: 230%;
+    line-height: 1;
+}
+
+.foldable_block_h2 {
+    font-size: 170%;
+    line-height: 1.2;
+}
+
+.foldable_block_h3 {
+    font-size: 148%;
+    line-height: 1.2;
+}
+
+.foldable_block_h4 {
+    font-size: 120%;
+    line-height: 1.3;
+}
+
+.foldable_block_h5,
+.foldable_block_h6 {
+    font-size: 100%;
+    line-height: 1.4;
+}
+
+
+@media screen and (min-width: 1260px) {
+    .foldable_block_h1 {
+        font-size: 260%;
+    }
+    .foldable_block_h2 {
+        font-size: 190%;
+    }
+}</style><div class="builder-section foldable_block">
+	
+	    <h2 class="builder-section__title">
+	        Вопросы и ответы
+	    </h2>
+	
+	
+	<div class="incut foldable_block__item" style="background: #F6F6F6;">
+        
+        <h2 class="u foldable_control foldable_block_" style="color: #0841AF; padding-top: 0; margin: 0; color: #0841AF;">
+            <span class="_link _link--pseudo">Каковы отличия дистанционной программы от близких к ней оффлайн программ?</span>
+        </h2>
+        
+        
+        <div class="foldable" style="display: none;">
+            <div class="with-indent"><p>Данная программа устроена точно так же, как и все оффлайн-программы ФКН. Лекции и семинары ведутся в реальном времени преподавателями и у студентов есть возможность задавать вопросы. Принципиальное отличие &ndash;&nbsp;занятия ведутся в Zoom, и вы можете посещать их, находясь где угодно. Кроме того, занятия будут записываться, и видеозаписи будут доступны студентам.</p>
+</div>
+        </div>
+        
+    </div>
+    
+	<div class="incut foldable_block__item" style="background: #F6F6F6;">
+        
+        <h2 class="u foldable_control foldable_block_" style="color: #0841AF; padding-top: 0; margin: 0; color: #0841AF;">
+            <span class="_link _link--pseudo">Сколько времени в неделю займет обучение?</span>
+        </h2>
+        
+        
+        <div class="foldable" style="display: none;">
+            <div class="with-indent"><p>Это полноценная бакалаврская программа по Computer Science, аналогичная программам ФКН, читаемым в кампусе. Поэтому по трудозатратности она сопоставима с оффлайн программами.</p>
+</div>
+        </div>
+        
+    </div>
+    
+	<div class="incut foldable_block__item" style="background: #F6F6F6;">
+        
+        <h2 class="u foldable_control foldable_block_" style="color: #0841AF; padding-top: 0; margin: 0; color: #0841AF;">
+            <span class="_link _link--pseudo">Как устроена практика на программе?</span>
+        </h2>
+        
+        
+        <div class="foldable" style="display: none;">
+            <div class="with-indent"><p>Практическая деятельность состоит из нескольких составляющих.</p>
+
+<ul>
+	<li>Программный проект на 2-м курсе</li>
+	<li>Курсовая работа на 3-м курсе</li>
+	<li>После 1-го и 2-го курса учебная практика</li>
+	<li>После 3-го курса производственная практика</li>
+	<li>Преддипломная практика на 4-м курсе</li>
+</ul>
+</div>
+        </div>
+        
+    </div>
+    
+	<div class="incut foldable_block__item" style="background: #F6F6F6;">
+        
+        <h2 class="u foldable_control foldable_block_" style="color: #0841AF; padding-top: 0; margin: 0; color: #0841AF;">
+            <span class="_link _link--pseudo">Как осуществляется прием на программу?</span>
+        </h2>
+        
+        
+        <div class="foldable" style="display: none;">
+            <div class="with-indent"><p>Прием осуществляется по результатам ЕГЭ (математика, информатика, русский язык) или по личным достижениям в виде побед на олимпиадах. Учитываются олимпиады по математике (I, II, III), информатике (I, II), физике (I), русскому&nbsp;языку (I, II).</p>
+</div>
+        </div>
+        
+    </div>
+    
+	<div class="incut foldable_block__item" style="background: #F6F6F6;">
+        
+        <h2 class="u foldable_control foldable_block_" style="color: #0841AF; padding-top: 0; margin: 0; color: #0841AF;">
+            <span class="_link _link--pseudo">Каковы карьерные перспективы после завершения обучения?</span>
+        </h2>
+        
+        
+        <div class="foldable" style="display: none;">
+            <div class="with-indent"><p>Выпускники аналогичной оффлайн программы работают в:</p>
+
+<ul>
+	<li>ведущих российских и зарубежных компаниях &ndash; производителях программного обеспечения (Яндекс, Microsoft, Google, Facebook, ABBYY, SAP, SAS, Лаборатория Касперского, Крок и т.д.);</li>
+	<li>в IT-отделах и отделах по работе с большими данными крупных компаний (Билайн, МТС, Озон);</li>
+	<li>в банковском, инвестиционном и страховом бизнесе (Сбербанк, Тинькофф Банк, Альфа-Банк, World Quant, Московская биржа);</li>
+	<li>в бизнес-консалтинге (PWC, McKinsey &amp; Co, Accenture, BCG);</li>
+	<li>в исследовательских центрах и университетах (Samsung &nbsp;AI &nbsp;Center, Центр глубинного обучения и байесовских методов ВШЭ, Skoltech);</li>
+	<li>в IT стартапах (Prisma Labs, Zerion, Boston Gene).</li>
+</ul>
+</div>
+        </div>
+        
+    </div>
+    
+	<div class="incut foldable_block__item" style="background: #F6F6F6;">
+        
+        <h2 class="u foldable_control foldable_block_" style="color: #0841AF; padding-top: 0; margin: 0; color: #0841AF;">
+            <span class="_link _link--pseudo">Где могут продолжить обучение выпускники программы? </span>
+        </h2>
+        
+        
+        <div class="foldable" style="display: none;">
+            <div class="with-indent"><p>Аналогичной оффлайн программой на ФКН является ПМИ.</p>
+
+<p>Если ориентироваться на нее, то в России выпускники ПМИ преимущественно выбирают обучение на магистерских программах ФКН. За рубежом они обучаются на магистерских и PhD программах в ведущих мировых университетах &ndash; Columbia University, Cornell University, University of Amsterdam, Boston College, UCLA, и др.</p>
+</div>
+        </div>
+        
+    </div>
+    
+	<div class="incut foldable_block__item" style="background: #F6F6F6;">
+        
+        <h2 class="u foldable_control foldable_block_" style="color: #0841AF; padding-top: 0; margin: 0; color: #0841AF;">
+            <span class="_link _link--pseudo">Сколько стоит обучение? Предусмотрены ли скидки?</span>
+        </h2>
+        
+        
+        <div class="foldable" style="display: none;">
+            <div class="with-indent"><p>Стоимость обучения составляет 440 000 рублей в год. На программе предусмотрены скидки, подробности условий получения скидок доступны <a href="https://www.hse.ru/ba/compds/discounts">тут.</a></p>
+</div>
+        </div>
+        
+    </div>
+    
+	<div class="incut foldable_block__item" style="background: #F6F6F6;">
+        
+        <h2 class="u foldable_control foldable_block_" style="color: #0841AF; padding-top: 0; margin: 0; color: #0841AF;">
+            <span class="_link _link--pseudo">Можно ли студентам программы посещать здания и мероприятия НИУ ВШЭ?</span>
+        </h2>
+        
+        
+        <div class="foldable" style="display: none;">
+            <div class="with-indent"><p dir="ltr">Студенты программы могут посещать здания и очные мероприятия НИУ ВШЭ, для этого необходимо <a href="https://www.hse.ru/org/hse/aup/security/ubr">оформить постоянный пропуск</a> в здание кампуса в том городе, в котором студент проживает (если там есть <a href="https://www.hse.ru/buildinghse/">кампус НИУ ВШЭ</a>), или запросить разовый пропуск на проход в здание у <a href="mailto:eandronova@hse.ru">менеджера программы</a>. Обратите внимание на <a href="https://www.hse.ru/studyspravka/education2021">действующие ограничения</a>, касающиеся посещения кампусов НИУ ВШЭ</p>
+</div>
+        </div>
+        
+    </div>
+    
+	<div class="incut foldable_block__item" style="background: #F6F6F6;">
+        
+        <h2 class="u foldable_control foldable_block_" style="color: #0841AF; padding-top: 0; margin: 0; color: #0841AF;">
+            <span class="_link _link--pseudo">Есть ли отсрочка от армии и возможность попасть на военную кафедру?</span>
+        </h2>
+        
+        
+        <div class="foldable" style="display: none;">
+            <div class="with-indent"><p dir="ltr">Да, отсрочка от армии предоставляется, как и всем студентам очной формы обучения. У студентов, которые находятся в городе, где есть кампус НИУ ВШЭ есть возможность участвовать в <a href="https://www.hse.ru/org/hse/ouk/mil/abiturient">отборе в ВУЦ</a>, но занятия там проходят только очно.</p>
+</div>
+        </div>
+        
+    </div>
+    
+	<div class="incut foldable_block__item" style="background: #F6F6F6;">
+        
+        <h2 class="u foldable_control foldable_block_" style="color: #0841AF; padding-top: 0; margin: 0; color: #0841AF;">
+            <span class="_link _link--pseudo">Будут ли какие-то внеучебные мероприятия?</span>
+        </h2>
+        
+        
+        <div class="foldable" style="display: none;">
+            <div class="with-indent"><p dir="ltr">Да, на программе планируются внеучебные мероприятия, как в дистанционном, так и в очном формате. Студенты могут принять активное участие в организации мероприятий и предлагать свои идеи, руководство программы окажет любую возможную поддержку по реализации этих идей.</p>
+</div>
+        </div>
+        
+    </div>
+    
+	<div class="incut foldable_block__item" style="background: #F6F6F6;">
+        
+        <h2 class="u foldable_control foldable_block_" style="color: #0841AF; padding-top: 0; margin: 0; color: #0841AF;">
+            <span class="_link _link--pseudo">Можно ли перевестись на программу с другой программы ВШЭ/из другого ВУЗа?</span>
+        </h2>
+        
+        
+        <div class="foldable" style="display: none;">
+            <div class="with-indent"><p dir="ltr">Да, перевод на КНАД возможен, как и на любую очную программу НИУ ВШЭ. Порядок перевода регламентируется <a href="https://www.hse.ru/docs/207427234.html">правилами перевода студентов НИУ ВШЭ</a> и внутренним порядком перевода, который появится на странице позже. Общий алгоритм перевода можно найти в <a href="https://www.hse.ru/studyspravka/handbook/studyspravka_std">справочнике учебного процесса.</a></p>
+</div>
+        </div>
+        
+    </div>
+    
+	<div class="incut foldable_block__item" style="background: #F6F6F6;">
+        
+        <h2 class="u foldable_control foldable_block_" style="color: #0841AF; padding-top: 0; margin: 0; color: #0841AF;">
+            <span class="_link _link--pseudo">Предоставляется ли общежитие иногородним/иностранным студентам?</span>
+        </h2>
+        
+        
+        <div class="foldable" style="display: none;">
+            <div class="with-indent"><p dir="ltr">Нет, студентам онлайн-программ не предоставляется общежитие. Однако, у студентов программы есть возможность альтернативного размещения: (1) формат <a href="https://www.hse.ru/sho/2">коливинга</a> и (2) <a href="https://www.hse.ru/sho/7">размещение через агентства недвижимости</a> . Подробную информацию по альтернативному размещению можно посмотреть на странице <a href="https://www.hse.ru/sho/">управления размещения студентов</a>.</p>
+</div>
+        </div>
+        
+    </div>
+    
+	<div class="incut foldable_block__item" style="background: #F6F6F6;">
+        
+        <h2 class="u foldable_control foldable_block_" style="color: #0841AF; padding-top: 0; margin: 0; color: #0841AF;">
+            <span class="_link _link--pseudo">Будет ли отличаться диплом от других бакалаврских программ ФКН?</span>
+        </h2>
+        
+        
+        <div class="foldable" style="display: none;">
+            <div class="with-indent"><p dir="ltr">Нет, по результатам обучения студенты КНАД получают такой же диплом, как и студенты программы &ldquo;Прикладная математика и информатика&rdquo;: диплом бакалавра государственного образца, с указанием очной формы обучения.</p>
+</div>
+        </div>
+        
+    </div>
+    
+</div>
+
+      <div class="with-indent5 _builder builder--text"><h3>О факультете компьютерных наук</h3>  <p>Факультет компьютерных наук появился в&nbsp;марте 2014 года с&nbsp;амбициозной целью&nbsp;&mdash; со&nbsp;временем войти в&nbsp;топ-30 ведущих факультетов мира, занимающихся подготовкой разработчиков и&nbsp;исследователей в&nbsp;области анализа данных и машинного обучения, хранения и&nbsp;обработки больших данных, биоинформатики, программной инженерии и&nbsp;системного программирования.</p> </div>
+      
+      
+      <div class="builder-section"><h2 class="builder-section__title">Новости</h2><div class="plate_news masonry"><div class="masonry__sizer"></div><div class="masonry__item"><div class="plate_news__title h4"><a class="link_dark2" href="https://www.hse.ru/evaluation/news/535213912.html">Запуск Студенческой оценки преподавания во 2 модуле 2021-22</a></div><div class="plate_news__text">Сегодня, 29 ноября, запущена очередная волна проекта &laquo;Студенческая оценка преподавания&raquo;</div><div class="tag-set"><a class="tag rubric rubric--tag" title="студенты" href="https://www.hse.ru/ba/compds/news/tags/stud/"><span class="rubric__inner">студенты</span></a><a class="tag rubric rubric--tag" title="исследования и аналитика" href="https://www.hse.ru/ba/compds/news/tags/resanl/"><span class="rubric__inner">исследования и аналитика</span></a><a class="tag rubric rubric--tag" title="приглашение к участию" href="https://www.hse.ru/ba/compds/news/tags/inv/"><span class="rubric__inner">приглашение к участию</span></a><a class="tag rubric rubric--tag" title="бакалавриат" href="https://www.hse.ru/ba/compds/news/tags/bprep/"><span class="rubric__inner">бакалавриат</span></a><a class="tag rubric rubric--tag" title="магистратура" href="https://www.hse.ru/ba/compds/news/tags/mag/"><span class="rubric__inner">магистратура</span></a><a class="tag rubric rubric--tag" title="Студенческая оценка преподавания" href="https://www.hse.ru/ba/compds/news/ou/148487093/"><span class="rubric__inner">Студенческая оценка преподавания</span></a></div><div class="plate_news__date">29 ноября</div></div><div class="masonry__item"><div class="plate_news__title h4"><a class="link_dark2" href="https://www.hse.ru/evaluation/news/510536260.html">Запуск Студенческой оценки преподавания в 1 модуле 2021-22</a></div><div class="plate_news__text">Вчера, 27 сентября, запущена очередная волна проекта &laquo;Студенческая оценка преподавания&raquo;</div><div class="tag-set"><a class="tag rubric rubric--tag" title="студенты" href="https://www.hse.ru/ba/compds/news/tags/stud/"><span class="rubric__inner">студенты</span></a><a class="tag rubric rubric--tag" title="исследования и аналитика" href="https://www.hse.ru/ba/compds/news/tags/resanl/"><span class="rubric__inner">исследования и аналитика</span></a><a class="tag rubric rubric--tag" title="приглашение к участию" href="https://www.hse.ru/ba/compds/news/tags/inv/"><span class="rubric__inner">приглашение к участию</span></a><a class="tag rubric rubric--tag" title="бакалавриат" href="https://www.hse.ru/ba/compds/news/tags/bprep/"><span class="rubric__inner">бакалавриат</span></a><a class="tag rubric rubric--tag" title="магистратура" href="https://www.hse.ru/ba/compds/news/tags/mag/"><span class="rubric__inner">магистратура</span></a><a class="tag rubric rubric--tag" title="Студенческая оценка преподавания" href="https://www.hse.ru/ba/compds/news/ou/148487093/"><span class="rubric__inner">Студенческая оценка преподавания</span></a></div><div class="plate_news__date">28 сентября</div></div><div class="masonry__item"><img width="100%" src="/data/2021/08/10/1424648770/1db5f5e1-b8e0-4d39-8032-c546a37236b3.jpg" class="fullwidth"><div class="plate_news__title h4"><a class="link_dark2" href="https://www.hse.ru/ba/compds/news/494692496.html">Индустриальный вебинар: "Метод производящих функций"</a></div><div class="plate_news__text"></div><div class="tag-set"><a class="rubric rubric_9" title="Образование" href="https://www.hse.ru/ba/compds/news/edu/"><span class="rubric__inner">Образование</span></a><a class="tag rubric rubric--tag" title="приглашение к участию" href="https://www.hse.ru/ba/compds/news/tags/inv/"><span class="rubric__inner">приглашение к участию</span></a><a class="tag rubric rubric--tag" title="онлайн-образование" href="https://www.hse.ru/ba/compds/news/tags/online/"><span class="rubric__inner">онлайн-образование</span></a><a class="tag rubric rubric--tag" title="бакалавриат" href="https://www.hse.ru/ba/compds/news/tags/bprep/"><span class="rubric__inner">бакалавриат</span></a></div><div class="plate_news__date">10 августа</div></div><div class="masonry__item"><img width="100%" src="/data/2021/08/07/1425973846/%D0%9E%D0%B1%D1%89%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0%20%D1%81%20%D0%90%D0%BD%D0%B5%D0%B9,%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F,%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-3.png" class="fullwidth"><div class="plate_news__title h4"><a class="link_dark2" href="https://www.hse.ru/ba/compds/news/493396100.html">Вебинар: &laquo;Где пригождается машинное обучение и как относиться к словам &laquo;искусственный интеллект&raquo;</a></div><div class="plate_news__text">Онлайн-бакалавриат НИУ ВШЭ &laquo;Компьютерные науки и анализ данных&raquo; приглашает посетить вебинар, посвященный теме машинного обучения.</div><div class="tag-set"><a class="rubric rubric_9" title="Образование" href="https://www.hse.ru/ba/compds/news/edu/"><span class="rubric__inner">Образование</span></a><a class="tag rubric rubric--tag" title="исследования и аналитика" href="https://www.hse.ru/ba/compds/news/tags/resanl/"><span class="rubric__inner">исследования и аналитика</span></a><a class="tag rubric rubric--tag" title="приглашение к участию" href="https://www.hse.ru/ba/compds/news/tags/inv/"><span class="rubric__inner">приглашение к участию</span></a><a class="tag rubric rubric--tag" title="онлайн-образование" href="https://www.hse.ru/ba/compds/news/tags/online/"><span class="rubric__inner">онлайн-образование</span></a></div><div class="plate_news__date">7 августа</div></div></div><div style="border: none;" class="post post--builder"><a href="https://www.hse.ru/ba/compds/news/page2.html" class="button button_blue button_large" title="Еще новости">Еще новости<span class="button__decorate"></span></a></div></div>
+    <div class="builder-section"><h2 class="builder-section__title">Другие бакалаврские программы</h2><div class="b-similar-programs b-s-program-box"><a href="https://www.hse.ru/ba/data/" class="b-s-program link link_no-underline" style="background-image:url(/mirror/pubs/share/direct/435506950.jpg)"><h4><span class="link link_white">Программа двух дипломов НИУ ВШЭ и Лондонского университета «Прикладной анализ данных»</span></h4><div class="columns columns_300 columns_std"><div class="column column3_1"><div class="b-s-program__bigger b-program-item_ b-program-item_duration"><div>4 года</div></div><div class="b-program_small b-program_white">Очная форма обучения</div></div><div class="column column3_2"><div class="b-s-program__bigger b-program-item_ b-program-item_places"><div>90/12</div></div><div class="b-program_small b-program_white">90&nbsp;платных мест<br/>12&nbsp;платных мест для иностранцев</div></div><div class="column column3_3"><div class="b-s-program__bigger b-program-item_ b-program-item_languages"><div>ENG</div></div><div class="b-program_small b-program_white">Обучение ведётся на английском языке</div></div></div></a><a href="https://www.hse.ru/ba/ami/" class="b-s-program link link_no-underline" style="background-image:url(/mirror/pubs/share/direct/463746598.jpg)"><h4><span class="link link_white">Прикладная математика и информатика</span></h4><div class="columns columns_300 columns_std"><div class="column column3_1"><div class="b-s-program__bigger b-program-item_ b-program-item_duration"><div>4 года</div></div><div class="b-program_small b-program_white">Очная форма обучения</div></div><div class="column column3_2"><div class="b-s-program__bigger b-program-item_ b-program-item_places"><div>145/70/20</div></div><div class="b-program_small b-program_white">145&nbsp;бюджетных мест<br/>70&nbsp;платных мест<br/>20&nbsp;платных мест для иностранцев</div></div><div class="column column3_3"><div class="b-s-program__bigger b-program-item_ b-program-item_languages"><div>RUS/ENG</div></div><div class="b-program_small b-program_white">Обучение ведётся на русском и английском языках</div></div></div></a></div></div></div></div></div></div><div class="footer"><div class="footer__inner row"><div class="footer__border"></div><div class="footer__breadcrumbs"><a href="//www.hse.ru" class="link no-visited">Национальный исследовательский университет «Высшая школа экономики»</a> → <a href="https://www.hse.ru/education/bachelor/" class="link no-visited">Образовательные программы бакалавриата</a> → <a href="https://cs.hse.ru/" class="link no-visited">Факультет компьютерных наук</a> → <span class="b">Образовательная программа «Компьютерные науки и анализ данных»</span></div><div class="footer__navigation"><ul class="navigation navigation_footer"><li class="parent"><a href="//www.hse.ru/org/hse/info/" class="link link_dark title no-visited">О Вышке</a> 
+				</li><li><a href="//www.hse.ru/figures/" class="link no-visited">Цифры и факты</a></li><li><a href="//www.hse.ru/orgstructure/" class="link no-visited">Руководство и структура</a></li><li><a href="//www.hse.ru/org/persons/" class="link no-visited">Преподаватели и сотрудники</a></li><li><a href="//www.hse.ru/buildinghse" class="link no-visited">Корпуса и общежития</a></li><li><a href="https://www.hse.ru/org/hse/aup/procurement/" class="link no-visited">Закупки</a></li><li><a href="//www.hse.ru/appeal/" class="link no-visited">Обращения граждан в НИУ ВШЭ</a></li><li><a href="//endowment.hse.ru/" class="link no-visited">Фонд целевого капитала</a></li><li><a href="https://www.hse.ru/anticorruption" class="link no-visited">Противодействие коррупции</a></li><li><a href="https://www.hse.ru/anticorruption/information" class="link no-visited">Сведения о доходах, расходах, об имуществе и обязательствах имущественного характера</a></li><li><a href="//www.hse.ru/sveden/" class="link no-visited">Сведения об образовательной организации</a></li><li><a href="https://inclusive.hse.ru/" class="link no-visited">ВШЭ для людей с ограниченными возможностями здоровья и инвалидов</a></li><li><a href="https://pay.hse.ru/" class="link no-visited">Единая платежная страница</a></li></ul><ul class="navigation navigation_footer"><li class="parent"><a href="//www.hse.ru/education/" class="link link_dark title no-visited">ОБРАЗОВАНИЕ</a> 
+				</li><li><a href="//school.hse.ru" class="link no-visited">Лицей</a></li><li><a href="https://fdp.hse.ru/" class="link no-visited">Довузовская подготовка</a></li><li><a href="//olymp.hse.ru/" class="link no-visited">Олимпиады</a></li><li><a href="//ba.hse.ru/" class="link no-visited">Прием в бакалавриат</a></li><li><a href="https://www.hse.ru/plus" class="link no-visited">Вышка+</a></li><li><a href="//ma.hse.ru/" class="link no-visited">Прием в магистратуру</a></li><li><a href="//aspirantura.hse.ru/" class="link no-visited">Аспирантура</a></li><li><a href="//busedu.hse.ru/" class="link no-visited">Дополнительное образование</a></li><li><a href="https://career.hse.ru/" class="link no-visited">Центр развития карьеры</a></li><li><a href="http://inc.hse.ru/" class="link no-visited">Бизнес-инкубатор ВШЭ</a></li></ul><ul class="navigation navigation_footer"><li class="parent"><a href="//www.hse.ru/science/" class="link link_dark title no-visited">НАУКА</a> 
+				</li><li><a href="//www.hse.ru/science/centers" class="link no-visited">Научные подразделения</a></li><li><a href="https://www.hse.ru/org/projects/" class="link no-visited">Исследовательские проекты</a></li><li><a href="//www.hse.ru/monitoring/" class="link no-visited">Мониторинги</a></li><li><a href="https://www.hse.ru/news/announcements/scientific_actions/" class="link no-visited">Научные мероприятия</a></li><li><a href="//www.hse.ru/science/disscoun/" class="link no-visited">Диссертационные советы</a></li><li><a href="https://aspirantura.hse.ru/defence/announcements/" class="link no-visited">Защиты диссертаций</a></li><li><a href="//academics.hse.ru/" class="link no-visited">Академическое развитие</a></li><li><a href="//www.hse.ru/science/hsegrants" class="link no-visited">Конкурсы и гранты</a></li><li><a href="https://iq.hse.ru/" class="link no-visited">Научно-образовательный портал IQ.hse.ru</a></li><li><a href="https://conf.hse.ru/2022" class="link no-visited">XXIII Ясинская (Апрельская) международная научная конференция по проблемам развития экономики и общества</a></li></ul><ul class="navigation navigation_footer"><li class="parent"><a href="//publications.hse.ru" class="link link_dark title no-visited">Ресурсы</a> 
+				</li><li><a href="https://library.hse.ru/" class="link no-visited">Библиотека</a></li><li><a href="//id.hse.ru" class="link no-visited">Издательский дом ВШЭ</a></li><li><a href="https://id.hse.ru/shop/" class="link no-visited">Книжный интернет-магазин</a></li><li><a href="//bookshop.hse.ru/" class="link no-visited">Книжный магазин «БукВышка»</a></li><li><a href="https://print.hse.ru/" class="link no-visited">Типография</a></li><li><a href="https://mc.hse.ru/" class="link no-visited">Медиацентр</a></li><li><a href="//www.hse.ru/science/journals" class="link no-visited">Журналы ВШЭ</a></li><li><a href="//publications.hse.ru" class="link no-visited">Публикации</a></li><li><a href="http://sophist.hse.ru/" class="link no-visited">Единый архив экономических и социологических данных</a></li><li><a href="https://moscow.hse.ru" class="link no-visited">Университет, открытый городу</a></li><li><a href="https://store.hse.ru/" class="link no-visited">Магазин HSE STORE</a></li></ul><ul class="navigation navigation_footer"><li class="parent">Полезные ссылки</li><li><a href="http://www.minobrnauki.gov.ru/" class="link no-visited" rel="nofollow">Министерство науки и высшего образования РФ</a></li><li><a href="https://edu.gov.ru/" class="link no-visited" rel="nofollow">Министерство просвещения РФ</a></li><li><a href="http://www.edu.ru" class="link no-visited" rel="nofollow">Федеральный портал «Российское образование»</a></li><li><a href="https://elearning.hse.ru/mooc" class="link no-visited">Массовые открытые онлайн-курсы</a></li><li><a href="https://studyinrussia.ru/" class="link no-visited" rel="nofollow">Study In Russia</a></li></ul></div><div class="footer__extra"><div class="footer__extra-inner"><div class="editor"><!--noindex--><a class="link link_btm_editor" href="https://www.hse.ru/adm/edit/edit.html?goto=%2AL2JhL2NvbXBkcz9fcj0yNzU4MjE0MTYzODk3NjM2Ny41MzgwMw%3D%3D%5E&amp;id=416767842&amp;cid=22700&amp;addon_name=default&amp;newportal=1">Редактору</a><!--/noindex--></div></div></div><div class="footer__bottom"><span class="grey">© НИУ ВШЭ 1993&ndash;2021</span> 
+					<a href="https://www.hse.ru/contacts.html">Адреса и контакты</a> 
+				<a href="https://www.hse.ru/copyright">Условия использования материалов</a> 
+				<a href="https://www.hse.ru/data_protection_regulation">Политика конфиденциальности</a> 
+				<a href="https://www.hse.ru/sitemap.html">Карта сайта</a> 
+				</div></div><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="0" height="0" class="svg-mask"><defs><clipPath id="hse-mask"><use xlink:href="#hse-mask-path" x="0" y="0"></use></clipPath><path id="hse-mask-path" fill="none" stroke="#000" stroke-width="1" stroke-opacity="0.3" d="M0,70 M64.979,3.055l-25.904,0.05 c-21.8,0-36.163,11.798-36.163,31.612c0,19.389,13.387,32.251,35.769,32.251c13.183,0,30.315-0.071,30.315-0.071l-4.029-5.025 L64.979,3.055L64.979,3.055z"></path></defs></svg></div></div><div class="popups"></div></body></html>
