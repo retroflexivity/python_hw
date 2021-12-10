@@ -1,7 +1,7 @@
 operands = ['+', '-', '=', '!', '>', '<']
 ok = True
 
-with open(input(''), encoding='UTF_8') as text:  # в этой конкретной строке рер8 с нами не согласен
+with open(input('Введите название файла\n'), encoding='UTF_8') as text:  # в этой конкретной строке рер8 с нами не согласен
     for i in range(len(code := text.readlines())):
         for j in range(len(line := code[i])):
             if line[j] in operands:
