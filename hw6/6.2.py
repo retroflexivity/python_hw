@@ -8,5 +8,4 @@ with open('ls.txt', encoding='utf-8') as ls:
 
             with open(filename[:-1], 'w', encoding='utf-8') as code:
                 for line in lines:
-                    print(line.find('	'))
                     code.write(line.replace('	', '    '))
