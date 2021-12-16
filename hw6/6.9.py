@@ -8,10 +8,10 @@ def findvars(string):
     for char in string:
         if char == '"' or char == "'":
             inquotes = not(inquotes)
-        if char == '#':
-            continue
 
         if not inquotes:
+            if char == '#':
+                continue
             if char.isalpha() or char.isnumeric():
                 word += char
             elif char == '(':  # функция. не переменная
