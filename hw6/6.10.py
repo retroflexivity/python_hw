@@ -35,7 +35,8 @@ with open('enron_3000.csv', encoding='utf-8') as csv:
         line = lines[linenum]
         commas = parse(line)
         while len(commas) < width:
-            line = line[:-1] + lines[linenum := linenum + 1]
+            linenum += 1
+            line = line[:-1] + lines[linenum]
             commas = parse(line)
         print('Письмо от', cleanset(line[commas[2] + 1:commas[3]]), 'по адресу', cleanset(line[commas[3] + 1:commas[4]]), subjectempty(line[commas[4] + 1:commas[5]]), 'отправлено', line[commas[1] + 1: commas[2]])
 
