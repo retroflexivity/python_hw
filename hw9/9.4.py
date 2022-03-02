@@ -16,4 +16,4 @@ def wordsbysentence(filename):
     return stlist
 
 
-wordsbysentence('pg66655.txt')
+print(wordsbysentence('pg66655.txt'))
