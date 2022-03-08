@@ -9,14 +9,16 @@ while True:
     if cmd[0] == 'создай':
         if not isdir(cmd[1]):
             mkdir(cmd[1])
+            print('создана папка ' + cmd[1])
         else:
             print(error)
     elif cmd[0] == 'удали':
         if isdir(cmd[1]):
             rmtree(cmd[1])
+            print('удалена папка ' + cmd[1])
         else:
             print(error)
     elif cmd[0] == 'надоело':
         break
     else:
-        print('я так не умею')
+        print('такой команды нет')
