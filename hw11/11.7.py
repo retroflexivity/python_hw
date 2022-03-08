@@ -18,10 +18,10 @@ for i in findall(r'&#([0-9]*);', text):  # заменяем хтмл-коды
 text = sub(r'<.*?>', '', text)  # хтмл-теги
 
 text = sub(r'\[[0-9]*\]', '', text)  # референции
-text = text.replace('[править | править код]', '')
+text = text.replace('[править | править код]', '')  # кнопки правок
 
 text = sub(r'Примечания(.*\n)*', '', text)  # опять обрезаем
-text = sub(r'(\n\t*){2,999}', '\n\n', text)
+text = sub(r'(\n\t*){2,999}', '\n\n', text)  # пустые строки
 
 text = text.strip()
 

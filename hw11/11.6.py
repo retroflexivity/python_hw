@@ -11,13 +11,13 @@ def censor(address):
 
 
 csv = DictReader(open('enron_3000.csv', encoding='utf-8'))
-with open('enron_3001.csv', 'w', encoding='utf-8') as f:
+with open('enron_3000.csv', 'w', encoding='utf-8') as f:
     writer = DictWriter(f, fieldnames=csv.fieldnames)
     writer.writeheader()
 
     for line in csv:
         mail = line
-        sender = search(r"[a-zA-Z0-9!#$%&'*+/=?^_`{|}~-]*@[a-zA-Z0-9.-]*", mail['From']).group(0)
+        sender = search(r"[a-zA-Z0-9!#$%&'*+/=?^_`|~-]*@[a-zA-Z0-9.-]*", mail['From']).group(0)
         if not sender.endswith('@enron.com'):
             mail['From'] = mail['From'].replace(sender, censor(sender))
         writer.writerow(line)
