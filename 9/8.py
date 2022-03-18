@@ -5,12 +5,12 @@ with open('laureate.json', encoding='utf-8') as f:
 
 for pers in laureates:
     if (pers.get('bornCountry') != 'Germany'):
-        found = False
+        phys = de = False
         for prize in pers['prizes']:
+            if prize['category'] == 'physics':
+                phys = True
             for aff in prize['affiliations']:
                 if isinstance(aff, dict) and aff.get('country') == 'Germany':
-                    print(pers['firstname'], pers['surname'])
-                    found = True
-                    break
-            if found:
-                break
+                    de = True
+        if de and phys:
+            print(pers['firstname'], pers['surname'])
