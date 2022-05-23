@@ -1,7 +1,8 @@
 import pandas as pd
 
-ds = pd.read_csv('netflix.csv')
-ds.head()
-ds[ds['type'] == 'Movie'].to_csv('movies.csv')
-ds[ds['type'] == 'TV Show'].to_csv('shows.csv')
-ds[ds['listed_in'].str.find('Dramas') >= 0].to_csv('dramas.csv')
+df = pd.read_csv('netflix.csv')
+df[df['type'] == 'Movie'].to_csv('nf/movies.csv')
+df[df['type'] == 'TV Show'].to_csv('nf/shows.csv')
+df[df['listed_in'].str.find('Dramas') >= 0].to_csv('nf/dramas.csv')
+
+df.head()
