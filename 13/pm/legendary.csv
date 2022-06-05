@@ -1,0 +1,47 @@
+,#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+156,144,Articuno,Ice,Flying,580,90,85,100,95,125,85,1,True
+157,145,Zapdos,Electric,Flying,580,90,90,85,125,90,100,1,True
+158,146,Moltres,Fire,Flying,580,90,100,90,125,85,90,1,True
+162,150,Mewtwo,Psychic,None,680,106,110,90,154,90,130,1,True
+262,243,Raikou,Electric,None,580,90,85,75,115,100,115,2,True
+263,244,Entei,Fire,None,580,115,115,85,90,75,100,2,True
+264,245,Suicune,Water,None,580,100,75,115,90,115,85,2,True
+269,249,Lugia,Psychic,Flying,680,106,90,130,90,154,110,2,True
+270,250,Ho-oh,Fire,Flying,680,106,130,90,110,154,90,2,True
+414,377,Regirock,Rock,None,580,80,100,200,50,100,50,3,True
+415,378,Regice,Ice,None,580,80,50,100,100,200,50,3,True
+416,379,Registeel,Steel,None,580,80,75,150,75,150,50,3,True
+417,380,Latias,Dragon,Psychic,600,80,80,90,110,130,110,3,True
+419,381,Latios,Dragon,Psychic,600,80,90,80,130,110,110,3,True
+421,382,Kyogre,Water,None,670,100,100,90,150,140,90,3,True
+423,383,Groudon,Ground,None,670,100,150,140,100,90,90,3,True
+425,384,Rayquaza,Dragon,Flying,680,105,150,90,150,90,95,3,True
+427,385,Jirachi,Steel,Psychic,600,100,100,100,100,100,100,3,True
+428,386,DeoxysNormal Forme,Psychic,None,600,50,150,50,150,50,150,3,True
+537,480,Uxie,Psychic,None,580,75,75,130,75,130,95,4,True
+538,481,Mesprit,Psychic,None,580,80,105,105,105,105,80,4,True
+539,482,Azelf,Psychic,None,580,75,125,70,125,70,115,4,True
+540,483,Dialga,Steel,Dragon,680,100,120,120,150,100,90,4,True
+541,484,Palkia,Water,Dragon,680,90,120,100,150,120,100,4,True
+542,485,Heatran,Fire,Steel,600,91,90,106,130,106,77,4,True
+543,486,Regigigas,Normal,None,670,110,160,110,80,110,100,4,True
+544,487,GiratinaAltered Forme,Ghost,Dragon,680,150,100,120,100,120,90,4,True
+549,491,Darkrai,Dark,None,600,70,90,90,135,90,125,4,True
+550,492,ShayminLand Forme,Grass,None,600,100,100,100,100,100,100,4,True
+552,493,Arceus,Normal,None,720,120,120,120,120,120,120,4,True
+553,494,Victini,Psychic,Fire,600,100,100,100,100,100,100,5,True
+699,638,Cobalion,Steel,Fighting,580,91,90,129,90,72,108,5,True
+700,639,Terrakion,Rock,Fighting,580,91,129,90,72,90,108,5,True
+701,640,Virizion,Grass,Fighting,580,91,90,72,90,129,108,5,True
+702,641,TornadusIncarnate Forme,Flying,None,580,79,115,70,125,80,111,5,True
+704,642,ThundurusIncarnate Forme,Electric,Flying,580,79,115,70,125,80,111,5,True
+706,643,Reshiram,Dragon,Fire,680,100,120,100,150,120,90,5,True
+707,644,Zekrom,Dragon,Electric,680,100,150,120,120,100,90,5,True
+708,645,LandorusIncarnate Forme,Ground,Flying,600,89,125,90,115,80,101,5,True
+710,646,Kyurem,Dragon,Ice,660,125,130,90,130,90,95,5,True
+792,716,Xerneas,Fairy,None,680,126,131,95,131,98,99,6,True
+793,717,Yveltal,Dark,Flying,680,126,131,95,131,98,99,6,True
+794,718,Zygarde50% Forme,Dragon,Ground,600,108,100,121,81,95,95,6,True
+795,719,Diancie,Rock,Fairy,600,50,100,150,100,150,50,6,True
+797,720,HoopaHoopa Confined,Psychic,Ghost,600,80,110,60,150,130,70,6,True
+799,721,Volcanion,Fire,Water,600,80,110,120,130,90,70,6,True
