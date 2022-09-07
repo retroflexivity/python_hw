@@ -1,0 +1,5746 @@
+{
+    "meta": {
+        "filename": "D://CompLing/CorpusUtils/tsakonian_corpus_platform/corpus/evenki\\eaf\\2019_Torom_MalyshevAF_LF5_transliterated.eaf",
+        "author": "Малышев Алексей Федорович",
+        "year": "2019",
+        "recplace": "Тором",
+        "title": "Кто-то черный",
+        "genre": "lifestory",
+        "year_from": "2019",
+        "year_to": "2019",
+        "site_url": "http://siberian-lang.srcc.msu.ru/ru/node/4889464"
+    },
+    "sentences": [
+        {
+            "text": "nu tar umun ēkun ahī tadū bičān čumikandū.",
+            "words": [
+                {
+                    "wf": "nu",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "nu",
+                            "gloss": "ну",
+                            "gloss_index": "ну{nu}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "tar",
+                    "off_start": 3,
+                    "off_end": 6,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tar",
+                            "gloss": "тот",
+                            "gloss_index": "тот{tar}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "umun",
+                    "off_start": 7,
+                    "off_end": 11,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "umun",
+                            "gloss": "один",
+                            "gloss_index": "один{umun}-"
+                        }
+                    ],
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "ēkun",
+                    "off_start": 12,
+                    "off_end": 16,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ēkun",
+                            "gloss": "что",
+                            "gloss_index": "что{ēkun}-"
+                        }
+                    ],
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "ahī",
+                    "off_start": 17,
+                    "off_end": 20,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ahī",
+                            "gloss": "женщина",
+                            "gloss_index": "женщина{ahī}-"
+                        }
+                    ],
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "tadū",
+                    "off_start": 21,
+                    "off_end": 25,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tadū",
+                            "gloss": "там",
+                            "gloss_index": "там{tadū}-"
+                        }
+                    ],
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "bičān",
+                    "off_start": 26,
+                    "off_end": 31,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "bi-čā-n",
+                            "gloss": "быть-PST-3SG",
+                            "gloss_index": "быть{bi}-PST{čā}-3SG{n}-"
+                        }
+                    ],
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "čumikandū",
+                    "off_start": 32,
+                    "off_end": 41,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "čumikan-dū",
+                            "gloss": "Чумикан-DATLOC",
+                            "gloss_index": "Чумикан{čumikan}-DATLOC{dū}-"
+                        }
+                    ],
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 41,
+                    "off_end": 42,
+                    "wtype": "punc",
+                    "next_word": 9
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 42,
+                    "para_id": 7210
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "0.241",
+                    "off_end_src": "3.689",
+                    "true_off_start_src": 0.241,
+                    "off_start_sent": 0,
+                    "off_end_sent": 42,
+                    "mtype": "audio",
+                    "src_id": "241_3689",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "tolkitča bičān āďana.",
+            "words": [
+                {
+                    "wf": "tolkitča",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tolki-t-ča",
+                            "gloss": "сон-VBLZ-PANT",
+                            "gloss_index": "сон{tolki}-VBLZ{t}-PANT{ča}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "bičān",
+                    "off_start": 9,
+                    "off_end": 14,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "bi-čā-n",
+                            "gloss": "быть-PST-3SG",
+                            "gloss_index": "быть{bi}-PST{čā}-3SG{n}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "āďana",
+                    "off_start": 15,
+                    "off_end": 20,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ā-ďa-na",
+                            "gloss": "спать-IPFV-CVSIM",
+                            "gloss_index": "спать{ā}-IPFV{ďa}-CVSIM{na}-"
+                        }
+                    ],
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 20,
+                    "off_end": 21,
+                    "wtype": "punc",
+                    "next_word": 4
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 21,
+                    "para_id": 7211
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "3.839",
+                    "off_end_src": "5.789",
+                    "true_off_start_src": 3.839,
+                    "off_start_sent": 0,
+                    "off_end_sent": 21,
+                    "mtype": "audio",
+                    "src_id": "3839_5789",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "sokto ēkun bičān munukān biďan tar.",
+            "words": [
+                {
+                    "wf": "sokto",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "sokto",
+                            "gloss": "пьяный",
+                            "gloss_index": "пьяный{sokto}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "ēkun",
+                    "off_start": 6,
+                    "off_end": 10,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ēkun",
+                            "gloss": "что",
+                            "gloss_index": "что{ēkun}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "bičān",
+                    "off_start": 11,
+                    "off_end": 16,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "bi-čā-n",
+                            "gloss": "быть-PST-3SG",
+                            "gloss_index": "быть{bi}-PST{čā}-3SG{n}-"
+                        }
+                    ],
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "munukān",
+                    "off_start": 17,
+                    "off_end": 24,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "munu-kān",
+                            "gloss": "едва-ATTEN",
+                            "gloss_index": "едва{munu}-ATTEN{kān}-"
+                        }
+                    ],
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "biďan",
+                    "off_start": 25,
+                    "off_end": 30,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "bi-ďa-n",
+                            "gloss": "быть-FUTCNT-3SG",
+                            "gloss_index": "быть{bi}-FUTCNT{ďa}-3SG{n}-"
+                        }
+                    ],
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "tar",
+                    "off_start": 31,
+                    "off_end": 34,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tar",
+                            "gloss": "тот",
+                            "gloss_index": "тот{tar}-"
+                        }
+                    ],
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 34,
+                    "off_end": 35,
+                    "wtype": "punc",
+                    "next_word": 7
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 35,
+                    "para_id": 7212
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "6.185",
+                    "off_end_src": "8.54",
+                    "true_off_start_src": 6.185,
+                    "off_start_sent": 0,
+                    "off_end_sent": 35,
+                    "mtype": "audio",
+                    "src_id": "6185_8540",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "tolkitča tar.",
+            "words": [
+                {
+                    "wf": "tolkitča",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tolki-t-ča",
+                            "gloss": "сон-VBLZ-PANT",
+                            "gloss_index": "сон{tolki}-VBLZ{t}-PANT{ča}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "tar",
+                    "off_start": 9,
+                    "off_end": 12,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tar",
+                            "gloss": "тот",
+                            "gloss_index": "тот{tar}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 12,
+                    "off_end": 13,
+                    "wtype": "punc",
+                    "next_word": 3
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 13,
+                    "para_id": 7213
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "8.875",
+                    "off_end_src": "10.135",
+                    "true_off_start_src": 8.875,
+                    "off_start_sent": 0,
+                    "off_end_sent": 13,
+                    "mtype": "audio",
+                    "src_id": "8875_10135",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "koŋnorin bi ēkunka ukulājinčān daγadūn arandūn.",
+            "words": [
+                {
+                    "wf": "koŋnorin",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "koŋnorin",
+                            "gloss": "черный",
+                            "gloss_index": "черный{koŋnorin}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "bi",
+                    "off_start": 9,
+                    "off_end": 11,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "bi",
+                            "gloss": "???",
+                            "gloss_index": "???{bi}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "ēkunka",
+                    "off_start": 12,
+                    "off_end": 18,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ēkun=ka",
+                            "gloss": "что-=FOC",
+                            "gloss_index": "что{ēkun}-FOC{ka}-"
+                        }
+                    ],
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "ukulājinčān",
+                    "off_start": 19,
+                    "off_end": 30,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ukulā-jin-čā-n",
+                            "gloss": "лечь-INCEP-PST-3SG",
+                            "gloss_index": "лечь{ukulā}-INCEP{jin}-PST{čā}-3SG{n}-"
+                        }
+                    ],
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "daγadūn",
+                    "off_start": 31,
+                    "off_end": 38,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "daγa-dū-n",
+                            "gloss": "место.рядом-DATLOC-PS3SG",
+                            "gloss_index": "место.рядом{daγa}-DATLOC{dū}-PS3SG{n}-"
+                        }
+                    ],
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "arandūn",
+                    "off_start": 39,
+                    "off_end": 46,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "aran-dū-n",
+                            "gloss": "кровать-DATLOC-PS3SG",
+                            "gloss_index": "кровать{aran}-DATLOC{dū}-PS3SG{n}-"
+                        }
+                    ],
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 46,
+                    "off_end": 47,
+                    "wtype": "punc",
+                    "next_word": 7
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 47,
+                    "para_id": 7214
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "11.202",
+                    "off_end_src": "15.176",
+                    "true_off_start_src": 11.202,
+                    "off_start_sent": 0,
+                    "off_end_sent": 47,
+                    "mtype": "audio",
+                    "src_id": "11202_15176",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "tar ēkun mēliksa ičəčān.",
+            "words": [
+                {
+                    "wf": "tar",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tar",
+                            "gloss": "тот",
+                            "gloss_index": "тот{tar}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "ēkun",
+                    "off_start": 4,
+                    "off_end": 8,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ēkun",
+                            "gloss": "что",
+                            "gloss_index": "что{ēkun}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "mēliksa",
+                    "off_start": 9,
+                    "off_end": 16,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "mēli-ksa",
+                            "gloss": "проснуться-DES",
+                            "gloss_index": "проснуться{mēli}-DES{ksa}-"
+                        }
+                    ],
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "ičəčān",
+                    "off_start": 17,
+                    "off_end": 23,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ičə-čā-n",
+                            "gloss": "видеть-PST-3SG",
+                            "gloss_index": "видеть{ičə}-PST{čā}-3SG{n}-"
+                        }
+                    ],
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 23,
+                    "off_end": 24,
+                    "wtype": "punc",
+                    "next_word": 5
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 24,
+                    "para_id": 7215
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "15.579",
+                    "off_end_src": "18.494",
+                    "true_off_start_src": 15.579,
+                    "off_start_sent": 0,
+                    "off_end_sent": 24,
+                    "mtype": "audio",
+                    "src_id": "15579_18494",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "ku= ukulāďərən koŋnorinďə ēkunka.",
+            "words": [
+                {
+                    "wf": "ku=",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ku=",
+                            "gloss": "SLIP",
+                            "gloss_index": "SLIP{ku}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "ukulāďərən",
+                    "off_start": 4,
+                    "off_end": 14,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ukulā-ďə-rə-n",
+                            "gloss": "лечь-IPFV-NFUT-3SG",
+                            "gloss_index": "лечь{ukulā}-IPFV{ďə}-NFUT{rə}-3SG{n}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "koŋnorinďə",
+                    "off_start": 15,
+                    "off_end": 25,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "koŋnorin-nďə",
+                            "gloss": "черный-INTS",
+                            "gloss_index": "черный{koŋnorin}-INTS{nďə}-"
+                        }
+                    ],
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "ēkunka",
+                    "off_start": 26,
+                    "off_end": 32,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ēkun=ka",
+                            "gloss": "что-=FOC",
+                            "gloss_index": "что{ēkun}-FOC{ka}-"
+                        }
+                    ],
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 32,
+                    "off_end": 33,
+                    "wtype": "punc",
+                    "next_word": 5
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 33,
+                    "para_id": 7216
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "18.494",
+                    "off_end_src": "20.433",
+                    "true_off_start_src": 18.494,
+                    "off_start_sent": 0,
+                    "off_end_sent": 33,
+                    "mtype": "audio",
+                    "src_id": "18494_20433",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "tar burīpčān.",
+            "words": [
+                {
+                    "wf": "tar",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tar",
+                            "gloss": "тот",
+                            "gloss_index": "тот{tar}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "burīpčān",
+                    "off_start": 4,
+                    "off_end": 12,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "burī-p-čā-n",
+                            "gloss": "уронить-PASS-PST-3SG",
+                            "gloss_index": "уронить{burī}-PASS{p}-PST{čā}-3SG{n}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 12,
+                    "off_end": 13,
+                    "wtype": "punc",
+                    "next_word": 3
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 13,
+                    "para_id": 7217
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "20.466",
+                    "off_end_src": "21.888",
+                    "true_off_start_src": 20.466,
+                    "off_start_sent": 0,
+                    "off_end_sent": 13,
+                    "mtype": "audio",
+                    "src_id": "20466_21888",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "tar poslə ətogo ačin očān tar ahī.",
+            "words": [
+                {
+                    "wf": "tar",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tar",
+                            "gloss": "тот",
+                            "gloss_index": "тот{tar}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "poslə",
+                    "off_start": 4,
+                    "off_end": 9,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "poslə",
+                            "gloss": "после",
+                            "gloss_index": "после{poslə}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "ətogo",
+                    "off_start": 10,
+                    "off_end": 15,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ətogo",
+                            "gloss": "этого",
+                            "gloss_index": "этого{ətogo}-"
+                        }
+                    ],
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "ačin",
+                    "off_start": 16,
+                    "off_end": 20,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ačin",
+                            "gloss": "NEG",
+                            "gloss_index": "NEG{ačin}-"
+                        }
+                    ],
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "očān",
+                    "off_start": 21,
+                    "off_end": 25,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "o-čā-n",
+                            "gloss": "стать-PST-3SG",
+                            "gloss_index": "стать{o}-PST{čā}-3SG{n}-"
+                        }
+                    ],
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "tar",
+                    "off_start": 26,
+                    "off_end": 29,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tar",
+                            "gloss": "тот",
+                            "gloss_index": "тот{tar}-"
+                        }
+                    ],
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "ahī",
+                    "off_start": 30,
+                    "off_end": 33,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ahī",
+                            "gloss": "женщина",
+                            "gloss_index": "женщина{ahī}-"
+                        }
+                    ],
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 33,
+                    "off_end": 34,
+                    "wtype": "punc",
+                    "next_word": 8
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 34,
+                    "para_id": 7218
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "22.066",
+                    "off_end_src": "24.694",
+                    "true_off_start_src": 22.066,
+                    "off_start_sent": 0,
+                    "off_end_sent": 34,
+                    "mtype": "audio",
+                    "src_id": "22066_24694",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "nu ačin očān.",
+            "words": [
+                {
+                    "wf": "nu",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "nu",
+                            "gloss": "ну",
+                            "gloss_index": "ну{nu}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "ačin",
+                    "off_start": 3,
+                    "off_end": 7,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ačin",
+                            "gloss": "NEG",
+                            "gloss_index": "NEG{ačin}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "očān",
+                    "off_start": 8,
+                    "off_end": 12,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "o-čā-n",
+                            "gloss": "стать-PST-3SG",
+                            "gloss_index": "стать{o}-PST{čā}-3SG{n}-"
+                        }
+                    ],
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 12,
+                    "off_end": 13,
+                    "wtype": "punc",
+                    "next_word": 4
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 13,
+                    "para_id": 7219
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "25.611",
+                    "off_end_src": "27.044",
+                    "true_off_start_src": 25.611,
+                    "off_start_sent": 0,
+                    "off_end_sent": 13,
+                    "mtype": "audio",
+                    "src_id": "25611_27044",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "nu f smɨslə umərla poslə ətogo.",
+            "words": [
+                {
+                    "wf": "nu",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "nu",
+                            "gloss": "ну",
+                            "gloss_index": "ну{nu}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "f",
+                    "off_start": 3,
+                    "off_end": 4,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "f",
+                            "gloss": "f",
+                            "gloss_index": "f{f}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "smɨslə",
+                    "off_start": 5,
+                    "off_end": 11,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "smɨslə",
+                            "gloss": "смысле",
+                            "gloss_index": "смысле{smɨslə}-"
+                        }
+                    ],
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "umərla",
+                    "off_start": 12,
+                    "off_end": 18,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "umərla",
+                            "gloss": "умерла",
+                            "gloss_index": "умерла{umərla}-"
+                        }
+                    ],
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "poslə",
+                    "off_start": 19,
+                    "off_end": 24,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "poslə",
+                            "gloss": "после",
+                            "gloss_index": "после{poslə}-"
+                        }
+                    ],
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "ətogo",
+                    "off_start": 25,
+                    "off_end": 30,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ətogo",
+                            "gloss": "этого",
+                            "gloss_index": "этого{ətogo}-"
+                        }
+                    ],
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 30,
+                    "off_end": 31,
+                    "wtype": "punc",
+                    "next_word": 7
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 31,
+                    "para_id": 7220
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "27.322",
+                    "off_end_src": "29.777",
+                    "true_off_start_src": 27.322,
+                    "off_start_sent": 0,
+                    "off_end_sent": 31,
+                    "mtype": "audio",
+                    "src_id": "27322_29777",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "fśo.",
+            "words": [
+                {
+                    "wf": "fśo",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "fśo",
+                            "gloss": "всё",
+                            "gloss_index": "всё{fśo}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 3,
+                    "off_end": 4,
+                    "wtype": "punc",
+                    "next_word": 2
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 4,
+                    "para_id": 7221
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "31.524",
+                    "off_end_src": "32.264",
+                    "true_off_start_src": 31.524,
+                    "off_start_sent": 0,
+                    "off_end_sent": 4,
+                    "mtype": "audio",
+                    "src_id": "31524_32264",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "ja tožə wos= tožə tolkitčāw wot ďūdūwi ńan wot.",
+            "words": [
+                {
+                    "wf": "ja",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ja",
+                            "gloss": "я",
+                            "gloss_index": "я{ja}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wf": "tožə",
+                    "off_start": 3,
+                    "off_end": 7,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tožə",
+                            "gloss": "тоже",
+                            "gloss_index": "тоже{tožə}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "wos=",
+                    "off_start": 8,
+                    "off_end": 12,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "wos=",
+                            "gloss": "SLIP",
+                            "gloss_index": "SLIP{wos}-"
+                        }
+                    ],
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "tožə",
+                    "off_start": 13,
+                    "off_end": 17,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tožə",
+                            "gloss": "тоже",
+                            "gloss_index": "тоже{tožə}-"
+                        }
+                    ],
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "tolkitčāw",
+                    "off_start": 18,
+                    "off_end": 27,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tolki-t-čā-w",
+                            "gloss": "сон-VBLZ-PST-1SG",
+                            "gloss_index": "сон{tolki}-VBLZ{t}-PST{čā}-1SG{w}-"
+                        }
+                    ],
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "wot",
+                    "off_start": 28,
+                    "off_end": 31,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "wot",
+                            "gloss": "вот",
+                            "gloss_index": "вот{wot}-"
+                        }
+                    ],
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "ďūdūwi",
+                    "off_start": 32,
+                    "off_end": 38,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ďū-dū-wi",
+                            "gloss": "дом.чум-DATLOC-RFL",
+                            "gloss_index": "дом.чум{ďū}-DATLOC{dū}-RFL{wi}-"
+                        }
+                    ],
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "ńan",
+                    "off_start": 39,
+                    "off_end": 42,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ńan",
+                            "gloss": "опять",
+                            "gloss_index": "опять{ńan}-"
+                        }
+                    ],
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "wot",
+                    "off_start": 43,
+                    "off_end": 46,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "wot",
+                            "gloss": "вот",
+                            "gloss_index": "вот{wot}-"
+                        }
+                    ],
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 46,
+                    "off_end": 47,
+                    "wtype": "punc",
+                    "next_word": 10
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 47,
+                    "para_id": 7222
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "32.405",
+                    "off_end_src": "37.405",
+                    "true_off_start_src": 32.405,
+                    "off_start_sent": 0,
+                    "off_end_sent": 47,
+                    "mtype": "audio",
+                    "src_id": "32405_37405",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "tožə takujužə tožə.",
+            "words": [
+                {
+                    "wf": "tožə",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tožə",
+                            "gloss": "тоже",
+                            "gloss_index": "тоже{tožə}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "takujužə",
+                    "off_start": 5,
+                    "off_end": 13,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "takujužə",
+                            "gloss": "такую.же",
+                            "gloss_index": "такую.же{takujužə}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "tožə",
+                    "off_start": 14,
+                    "off_end": 18,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tožə",
+                            "gloss": "тоже",
+                            "gloss_index": "тоже{tožə}-"
+                        }
+                    ],
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 18,
+                    "off_end": 19,
+                    "wtype": "punc",
+                    "next_word": 4
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 19,
+                    "para_id": 7223
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "37.894",
+                    "off_end_src": "40.924",
+                    "true_off_start_src": 37.894,
+                    "off_start_sent": 0,
+                    "off_end_sent": 19,
+                    "mtype": "audio",
+                    "src_id": "37894_40924",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "ēkunka əmərən.",
+            "words": [
+                {
+                    "wf": "ēkunka",
+                    "off_start": 0,
+                    "off_end": 6,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ēkun=ka",
+                            "gloss": "что-=FOC",
+                            "gloss_index": "что{ēkun}-FOC{ka}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "əmərən",
+                    "off_start": 7,
+                    "off_end": 13,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "əmə-rə-n",
+                            "gloss": "прийти-NFUT-3SG",
+                            "gloss_index": "прийти{əmə}-NFUT{rə}-3SG{n}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 13,
+                    "off_end": 14,
+                    "wtype": "punc",
+                    "next_word": 3
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 14,
+                    "para_id": 7224
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "21.518",
+                    "off_end_src": "22.421",
+                    "true_off_start_src": 41.518,
+                    "off_start_sent": 0,
+                    "off_end_sent": 14,
+                    "mtype": "audio",
+                    "src_id": "41518_42421",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "ukulājindən as= āďarakiw.",
+            "words": [
+                {
+                    "wf": "ukulājindən",
+                    "off_start": 0,
+                    "off_end": 11,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ukulā-jin-də-n",
+                            "gloss": "лечь-INCEP-NFUT-3SG",
+                            "gloss_index": "лечь{ukulā}-INCEP{jin}-NFUT{də}-3SG{n}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "as=",
+                    "off_start": 12,
+                    "off_end": 15,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "as=",
+                            "gloss": "SLIP",
+                            "gloss_index": "SLIP{as}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "āďarakiw",
+                    "off_start": 16,
+                    "off_end": 24,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ā-ďa-raki-w",
+                            "gloss": "спать-IPFV-CVCOND-1SG",
+                            "gloss_index": "спать{ā}-IPFV{ďa}-CVCOND{raki}-1SG{w}-"
+                        }
+                    ],
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 24,
+                    "off_end": 25,
+                    "wtype": "punc",
+                    "next_word": 4
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 25,
+                    "para_id": 7225
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "22.421",
+                    "off_end_src": "25.609",
+                    "true_off_start_src": 42.421,
+                    "off_start_sent": 0,
+                    "off_end_sent": 25,
+                    "mtype": "audio",
+                    "src_id": "42421_45609",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "əgdɨnďəkōkun ēkunka.",
+            "words": [
+                {
+                    "wf": "əgdɨnďəkōkun",
+                    "off_start": 0,
+                    "off_end": 12,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "əgdɨ-nďə-kōkun",
+                            "gloss": "большой-INTS-INTS",
+                            "gloss_index": "большой{əgdɨ}-INTS{nďə}-INTS{kōkun}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "ēkunka",
+                    "off_start": 13,
+                    "off_end": 19,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ēkun=ka",
+                            "gloss": "что-=FOC",
+                            "gloss_index": "что{ēkun}-FOC{ka}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 19,
+                    "off_end": 20,
+                    "wtype": "punc",
+                    "next_word": 3
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 20,
+                    "para_id": 7226
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "25.609",
+                    "off_end_src": "27.171999999999997",
+                    "true_off_start_src": 45.609,
+                    "off_start_sent": 0,
+                    "off_end_sent": 20,
+                    "mtype": "audio",
+                    "src_id": "45609_47172",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "tɨkān ājinčāw ājinčāw ājinčāw.",
+            "words": [
+                {
+                    "wf": "tɨkān",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tɨkān",
+                            "gloss": "сейчас",
+                            "gloss_index": "сейчас{tɨkān}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "ājinčāw",
+                    "off_start": 6,
+                    "off_end": 13,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ā-jin-čā-w",
+                            "gloss": "спать-INCEP-PST-1SG",
+                            "gloss_index": "спать{ā}-INCEP{jin}-PST{čā}-1SG{w}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "ājinčāw",
+                    "off_start": 14,
+                    "off_end": 21,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ā-jin-čā-w",
+                            "gloss": "спать-INCEP-PST-1SG",
+                            "gloss_index": "спать{ā}-INCEP{jin}-PST{čā}-1SG{w}-"
+                        }
+                    ],
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "ājinčāw",
+                    "off_start": 22,
+                    "off_end": 29,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ā-jin-čā-w",
+                            "gloss": "спать-INCEP-PST-1SG",
+                            "gloss_index": "спать{ā}-INCEP{jin}-PST{čā}-1SG{w}-"
+                        }
+                    ],
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 29,
+                    "off_end": 30,
+                    "wtype": "punc",
+                    "next_word": 5
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 30,
+                    "para_id": 7227
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "27.342",
+                    "off_end_src": "28.951999999999998",
+                    "true_off_start_src": 47.342,
+                    "off_start_sent": 0,
+                    "off_end_sent": 30,
+                    "mtype": "audio",
+                    "src_id": "47342_48952",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "tɨkān oďəjalowo ēksə atājikəl.",
+            "words": [
+                {
+                    "wf": "tɨkān",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tɨkān",
+                            "gloss": "сейчас",
+                            "gloss_index": "сейчас{tɨkān}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "oďəjalowo",
+                    "off_start": 6,
+                    "off_end": 15,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "oďəjalo-wo",
+                            "gloss": "одеяло-ACC",
+                            "gloss_index": "одеяло{oďəjalo}-ACC{wo}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "ēksə",
+                    "off_start": 16,
+                    "off_end": 20,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ē-ksə",
+                            "gloss": "что-CVANT",
+                            "gloss_index": "что{ē}-CVANT{ksə}-"
+                        }
+                    ],
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "atājikəl",
+                    "off_start": 21,
+                    "off_end": 30,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "atāji-kəl",
+                            "gloss": "обернуться-IMPER.2SG",
+                            "gloss_index": "обернуться{atāji}-IMPER.2SG{kəl}-"
+                        }
+                    ],
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 30,
+                    "off_end": 31,
+                    "wtype": "punc",
+                    "next_word": 5
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 31,
+                    "para_id": 7228
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "28.956000000000003",
+                    "off_end_src": "31.418",
+                    "true_off_start_src": 48.956,
+                    "off_start_sent": 0,
+                    "off_end_sent": 31,
+                    "mtype": "audio",
+                    "src_id": "48956_51418",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "ō ukulāďərən tar.",
+            "words": [
+                {
+                    "wf": "ō",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ō",
+                            "gloss": "INTJ",
+                            "gloss_index": "INTJ{ō}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "ukulāďərən",
+                    "off_start": 2,
+                    "off_end": 12,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "ukulā-ďə-rə-n",
+                            "gloss": "лечь-IPFV-NFUT-3SG",
+                            "gloss_index": "лечь{ukulā}-IPFV{ďə}-NFUT{rə}-3SG{n}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "tar",
+                    "off_start": 13,
+                    "off_end": 16,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tar",
+                            "gloss": "тот",
+                            "gloss_index": "тот{tar}-"
+                        }
+                    ],
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 16,
+                    "off_end": 17,
+                    "wtype": "punc",
+                    "next_word": 4
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 17,
+                    "para_id": 7229
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "31.418",
+                    "off_end_src": "32.673",
+                    "true_off_start_src": 51.418,
+                    "off_start_sent": 0,
+                    "off_end_sent": 17,
+                    "mtype": "audio",
+                    "src_id": "51418_52673",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "tɨki= tɨkittən.",
+            "words": [
+                {
+                    "wf": "tɨki=",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tɨki=",
+                            "gloss": "упасть.SLIP",
+                            "gloss_index": "упасть.SLIP{tɨki}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "tɨkittən",
+                    "off_start": 6,
+                    "off_end": 14,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tɨki-t-tə-n",
+                            "gloss": "упасть-DUR-NFUT-3SG",
+                            "gloss_index": "упасть{tɨki}-DUR{t}-NFUT{tə}-3SG{n}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 14,
+                    "off_end": 15,
+                    "wtype": "punc",
+                    "next_word": 3
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 15,
+                    "para_id": 7230
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "32.715",
+                    "off_end_src": "34.147",
+                    "true_off_start_src": 52.715,
+                    "off_start_sent": 0,
+                    "off_end_sent": 15,
+                    "mtype": "audio",
+                    "src_id": "52715_54147",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "burībuttən tar.",
+            "words": [
+                {
+                    "wf": "burībuttən",
+                    "off_start": 0,
+                    "off_end": 10,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "burī-bu-t-tə-n",
+                            "gloss": "уронить-PASS-DUR-NFUT-3SG",
+                            "gloss_index": "уронить{burī}-PASS{bu}-DUR{t}-NFUT{tə}-3SG{n}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "tar",
+                    "off_start": 11,
+                    "off_end": 14,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tar",
+                            "gloss": "тот",
+                            "gloss_index": "тот{tar}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 14,
+                    "off_end": 15,
+                    "wtype": "punc",
+                    "next_word": 3
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 15,
+                    "para_id": 7231
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "34.147",
+                    "off_end_src": "35.11",
+                    "true_off_start_src": 54.147,
+                    "off_start_sent": 0,
+                    "off_end_sent": 15,
+                    "mtype": "audio",
+                    "src_id": "54147_55110",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "mēličiØm tar.",
+            "words": [
+                {
+                    "wf": "mēličiØm",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "mēli-či-Ø-m",
+                            "gloss": "проснуться-DUR-NFUT-1SG",
+                            "gloss_index": "проснуться{mēli}-DUR{či}-NFUT{Ø}-1SG{m}-"
+                        }
+                    ],
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wf": "tar",
+                    "off_start": 9,
+                    "off_end": 12,
+                    "wtype": "word",
+                    "ana": [
+                        {
+                            "parts": "tar",
+                            "gloss": "тот",
+                            "gloss_index": "тот{tar}-"
+                        }
+                    ],
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "wf": ".",
+                    "off_start": 12,
+                    "off_end": 13,
+                    "wtype": "punc",
+                    "next_word": 3
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 13,
+                    "para_id": 7232
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "35.133",
+                    "off_end_src": "36.344",
+                    "true_off_start_src": 55.133,
+                    "off_start_sent": 0,
+                    "off_end_sent": 13,
+                    "mtype": "audio",
+                    "src_id": "55133_56344",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ],
+            "last": true
+        },
+        {
+            "text": "Ну тар умун ēкун, аhӣ тадӯ бича̄н, Чумикандӯ.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Ну",
+                    "wtype": "word",
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 9
+                },
+                {
+                    "off_start": 3,
+                    "wf": "тар",
+                    "wtype": "word",
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "off_start": 7,
+                    "wf": "умун",
+                    "wtype": "word",
+                    "off_end": 11,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "off_start": 12,
+                    "wf": "ēкун",
+                    "wtype": "word",
+                    "off_end": 16,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "off_start": 16,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 17,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 18,
+                    "wf": "аhӣ",
+                    "wtype": "word",
+                    "off_end": 21,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 22,
+                    "wf": "тадӯ",
+                    "wtype": "word",
+                    "off_end": 26,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 27,
+                    "wf": "бича̄н",
+                    "wtype": "word",
+                    "off_end": 33,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 33,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 34,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 35,
+                    "wf": "Чумикандӯ",
+                    "wtype": "word",
+                    "off_end": 44,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 44,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 45,
+                    "next_word": 11
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 45,
+                    "para_id": 7210
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "0.241",
+                    "off_end_src": "3.689",
+                    "true_off_start_src": 0.241,
+                    "off_start_sent": 0,
+                    "off_end_sent": 45,
+                    "mtype": "audio",
+                    "src_id": "241_3689",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Толкитча бича̄н, а̄дяна.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Толкитча",
+                    "wtype": "word",
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 9,
+                    "wf": "бича̄н",
+                    "wtype": "word",
+                    "off_end": 15,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 15,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 16,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 17,
+                    "wf": "а̄дяна",
+                    "wtype": "word",
+                    "off_end": 23,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 23,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 24,
+                    "next_word": 5
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 24,
+                    "para_id": 7211
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "3.839",
+                    "off_end_src": "5.789",
+                    "true_off_start_src": 3.839,
+                    "off_start_sent": 0,
+                    "off_end_sent": 24,
+                    "mtype": "audio",
+                    "src_id": "3839_5789",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Сокто, ēкун бича̄н, мунука̄н бидян тар.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Сокто",
+                    "wtype": "word",
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "off_start": 5,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "off_start": 7,
+                    "wf": "ēкун",
+                    "wtype": "word",
+                    "off_end": 11,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 12,
+                    "wf": "бича̄н",
+                    "wtype": "word",
+                    "off_end": 18,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 18,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 19,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 20,
+                    "wf": "мунука̄н",
+                    "wtype": "word",
+                    "off_end": 28,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 29,
+                    "wf": "бидян",
+                    "wtype": "word",
+                    "off_end": 34,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 35,
+                    "wf": "тар",
+                    "wtype": "word",
+                    "off_end": 38,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 38,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 39,
+                    "next_word": 9
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 39,
+                    "para_id": 7212
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "6.185",
+                    "off_end_src": "8.54",
+                    "true_off_start_src": 6.185,
+                    "off_start_sent": 0,
+                    "off_end_sent": 39,
+                    "mtype": "audio",
+                    "src_id": "6185_8540",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Толкитча тар.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Толкитча",
+                    "wtype": "word",
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 9,
+                    "wf": "тар",
+                    "wtype": "word",
+                    "off_end": 12,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 12,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 13,
+                    "next_word": 3
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 13,
+                    "para_id": 7213
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "8.875",
+                    "off_end_src": "10.135",
+                    "true_off_start_src": 8.875,
+                    "off_start_sent": 0,
+                    "off_end_sent": 13,
+                    "mtype": "audio",
+                    "src_id": "8875_10135",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Коӈнорин ēкун-ка укула̄инча̄н дагадӯн арандӯн.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Коӈнорин",
+                    "wtype": "word",
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 9,
+                    "wf": "ēкун-ка",
+                    "wtype": "word",
+                    "off_end": 16,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 17,
+                    "wf": "укула̄инча̄н",
+                    "wtype": "word",
+                    "off_end": 29,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 30,
+                    "wf": "дагадӯн",
+                    "wtype": "word",
+                    "off_end": 37,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 38,
+                    "wf": "арандӯн",
+                    "wtype": "word",
+                    "off_end": 45,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 45,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 46,
+                    "next_word": 6
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 46,
+                    "para_id": 7214
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "11.202",
+                    "off_end_src": "15.176",
+                    "true_off_start_src": 11.202,
+                    "off_start_sent": 0,
+                    "off_end_sent": 46,
+                    "mtype": "audio",
+                    "src_id": "11202_15176",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Тар ēкун, мēликса, ичэча̄н:",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Тар",
+                    "wtype": "word",
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 4,
+                    "wf": "ēкун",
+                    "wtype": "word",
+                    "off_end": 8,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 8,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 9,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 10,
+                    "wf": "мēликса",
+                    "wtype": "word",
+                    "off_end": 17,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 17,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 18,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 19,
+                    "wf": "ичэча̄н",
+                    "wtype": "word",
+                    "off_end": 26,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 26,
+                    "wf": ":",
+                    "wtype": "punct",
+                    "off_end": 27,
+                    "next_word": 7
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 27,
+                    "para_id": 7215
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "15.579",
+                    "off_end_src": "18.494",
+                    "true_off_start_src": 15.579,
+                    "off_start_sent": 0,
+                    "off_end_sent": 27,
+                    "mtype": "audio",
+                    "src_id": "15579_18494",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "укула̄дерэн коӈноринде ēкун-ка.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "укула̄дерэн",
+                    "wtype": "word",
+                    "off_end": 11,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 12,
+                    "wf": "коӈноринде",
+                    "wtype": "word",
+                    "off_end": 22,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 23,
+                    "wf": "ēкун-ка",
+                    "wtype": "word",
+                    "off_end": 30,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 30,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 31,
+                    "next_word": 4
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 31,
+                    "para_id": 7216
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "18.494",
+                    "off_end_src": "20.433",
+                    "true_off_start_src": 18.494,
+                    "off_start_sent": 0,
+                    "off_end_sent": 31,
+                    "mtype": "audio",
+                    "src_id": "18494_20433",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Тар бурӣпча̄н.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Тар",
+                    "wtype": "word",
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 4,
+                    "wf": "бурӣпча̄н",
+                    "wtype": "word",
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 13,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 14,
+                    "next_word": 3
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 14,
+                    "para_id": 7217
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "20.466",
+                    "off_end_src": "21.888",
+                    "true_off_start_src": 20.466,
+                    "off_start_sent": 0,
+                    "off_end_sent": 14,
+                    "mtype": "audio",
+                    "src_id": "20466_21888",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Тар после этого ачин оча̄н тар аhӣ.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Тар",
+                    "wtype": "word",
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "off_start": 4,
+                    "wf": "после",
+                    "wtype": "word",
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 10,
+                    "wf": "этого",
+                    "wtype": "word",
+                    "off_end": 15,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 16,
+                    "wf": "ачин",
+                    "wtype": "word",
+                    "off_end": 20,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 21,
+                    "wf": "оча̄н",
+                    "wtype": "word",
+                    "off_end": 26,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 27,
+                    "wf": "тар",
+                    "wtype": "word",
+                    "off_end": 30,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 31,
+                    "wf": "аhӣ",
+                    "wtype": "word",
+                    "off_end": 34,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 34,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 35,
+                    "next_word": 8
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 35,
+                    "para_id": 7218
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "22.066",
+                    "off_end_src": "24.694",
+                    "true_off_start_src": 22.066,
+                    "off_start_sent": 0,
+                    "off_end_sent": 35,
+                    "mtype": "audio",
+                    "src_id": "22066_24694",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Ну ачин оча̄н.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Ну",
+                    "wtype": "word",
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 3,
+                    "wf": "ачин",
+                    "wtype": "word",
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 8,
+                    "wf": "оча̄н",
+                    "wtype": "word",
+                    "off_end": 13,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 13,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 14,
+                    "next_word": 4
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 14,
+                    "para_id": 7219
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "25.611",
+                    "off_end_src": "27.044",
+                    "true_off_start_src": 25.611,
+                    "off_start_sent": 0,
+                    "off_end_sent": 14,
+                    "mtype": "audio",
+                    "src_id": "25611_27044",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Ну, в смысле, умерла после этого.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Ну",
+                    "wtype": "word",
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "off_start": 2,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 3,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "off_start": 4,
+                    "wf": "в",
+                    "wtype": "word",
+                    "off_end": 5,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 6,
+                    "wf": "смысле",
+                    "wtype": "word",
+                    "off_end": 12,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 12,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 13,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 14,
+                    "wf": "умерла",
+                    "wtype": "word",
+                    "off_end": 20,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 21,
+                    "wf": "после",
+                    "wtype": "word",
+                    "off_end": 26,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 27,
+                    "wf": "этого",
+                    "wtype": "word",
+                    "off_end": 32,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 32,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 33,
+                    "next_word": 9
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 33,
+                    "para_id": 7220
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "27.322",
+                    "off_end_src": "29.777",
+                    "true_off_start_src": 27.322,
+                    "off_start_sent": 0,
+                    "off_end_sent": 33,
+                    "mtype": "audio",
+                    "src_id": "27322_29777",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Всё.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Всё",
+                    "wtype": "word",
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0
+                },
+                {
+                    "off_start": 3,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 4,
+                    "next_word": 2
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 4,
+                    "para_id": 7221
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "31.524",
+                    "off_end_src": "32.264",
+                    "true_off_start_src": 31.524,
+                    "off_start_sent": 0,
+                    "off_end_sent": 4,
+                    "mtype": "audio",
+                    "src_id": "31524_32264",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Я тоже, тоже толкитча̄в вот дюдӯви, нян вот.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Я",
+                    "wtype": "word",
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 9
+                },
+                {
+                    "off_start": 2,
+                    "wf": "тоже",
+                    "wtype": "word",
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "off_start": 6,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 7,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "off_start": 8,
+                    "wf": "тоже",
+                    "wtype": "word",
+                    "off_end": 12,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "off_start": 13,
+                    "wf": "толкитча̄в",
+                    "wtype": "word",
+                    "off_end": 23,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 24,
+                    "wf": "вот",
+                    "wtype": "word",
+                    "off_end": 27,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 28,
+                    "wf": "дюдӯви",
+                    "wtype": "word",
+                    "off_end": 34,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 34,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 35,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 36,
+                    "wf": "нян",
+                    "wtype": "word",
+                    "off_end": 39,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 40,
+                    "wf": "вот",
+                    "wtype": "word",
+                    "off_end": 43,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 43,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 44,
+                    "next_word": 11
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 44,
+                    "para_id": 7222
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "32.405",
+                    "off_end_src": "37.405",
+                    "true_off_start_src": 32.405,
+                    "off_start_sent": 0,
+                    "off_end_sent": 44,
+                    "mtype": "audio",
+                    "src_id": "32405_37405",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Тоже, такую же, тоже.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Тоже",
+                    "wtype": "word",
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 4,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 5,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 6,
+                    "wf": "такую",
+                    "wtype": "word",
+                    "off_end": 11,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 12,
+                    "wf": "же",
+                    "wtype": "word",
+                    "off_end": 14,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 14,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 15,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 16,
+                    "wf": "тоже",
+                    "wtype": "word",
+                    "off_end": 20,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 20,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 21,
+                    "next_word": 7
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 21,
+                    "para_id": 7223
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "37.894",
+                    "off_end_src": "40.924",
+                    "true_off_start_src": 37.894,
+                    "off_start_sent": 0,
+                    "off_end_sent": 21,
+                    "mtype": "audio",
+                    "src_id": "37894_40924",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Ēкун-ка эмэрэн.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Ēкун-ка",
+                    "wtype": "word",
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 8,
+                    "wf": "эмэрэн",
+                    "wtype": "word",
+                    "off_end": 14,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 14,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 15,
+                    "next_word": 3
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 15,
+                    "para_id": 7224
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "21.518",
+                    "off_end_src": "22.421",
+                    "true_off_start_src": 41.518,
+                    "off_start_sent": 0,
+                    "off_end_sent": 15,
+                    "mtype": "audio",
+                    "src_id": "41518_42421",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Укула̄индэн, а̄дяракив.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Укула̄индэн",
+                    "wtype": "word",
+                    "off_end": 11,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 11,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 12,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 13,
+                    "wf": "а̄дяракив",
+                    "wtype": "word",
+                    "off_end": 22,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 22,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 23,
+                    "next_word": 4
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 23,
+                    "para_id": 7225
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "22.421",
+                    "off_end_src": "25.609",
+                    "true_off_start_src": 42.421,
+                    "off_start_sent": 0,
+                    "off_end_sent": 23,
+                    "mtype": "audio",
+                    "src_id": "42421_45609",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Эгдындеко̄кун ēкун-ка.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Эгдындеко̄кун",
+                    "wtype": "word",
+                    "off_end": 13,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 14,
+                    "wf": "ēкун-ка",
+                    "wtype": "word",
+                    "off_end": 21,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 21,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 22,
+                    "next_word": 3
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 22,
+                    "para_id": 7226
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "25.609",
+                    "off_end_src": "27.171999999999997",
+                    "true_off_start_src": 45.609,
+                    "off_start_sent": 0,
+                    "off_end_sent": 22,
+                    "mtype": "audio",
+                    "src_id": "45609_47172",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Тыка̄н а̄инча̄в, а̄инча̄в, а̄инча̄в.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Тыка̄н",
+                    "wtype": "word",
+                    "off_end": 6,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 7,
+                    "wf": "а̄инча̄в",
+                    "wtype": "word",
+                    "off_end": 15,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 15,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 16,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 17,
+                    "wf": "а̄инча̄в",
+                    "wtype": "word",
+                    "off_end": 25,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 25,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 26,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 27,
+                    "wf": "а̄инча̄в",
+                    "wtype": "word",
+                    "off_end": 35,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 35,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 36,
+                    "next_word": 7
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 36,
+                    "para_id": 7227
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "27.342",
+                    "off_end_src": "28.951999999999998",
+                    "true_off_start_src": 47.342,
+                    "off_start_sent": 0,
+                    "off_end_sent": 36,
+                    "mtype": "audio",
+                    "src_id": "47342_48952",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Тыка̄н одеялово ēксэ, ата̄икэл:",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Тыка̄н",
+                    "wtype": "word",
+                    "off_end": 6,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 7,
+                    "wf": "одеялово",
+                    "wtype": "word",
+                    "off_end": 15,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 16,
+                    "wf": "ēксэ",
+                    "wtype": "word",
+                    "off_end": 20,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 20,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 21,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 22,
+                    "wf": "ата̄икэл",
+                    "wtype": "word",
+                    "off_end": 30,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 30,
+                    "wf": ":",
+                    "wtype": "punct",
+                    "off_end": 31,
+                    "next_word": 6
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 31,
+                    "para_id": 7228
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "28.956000000000003",
+                    "off_end_src": "31.418",
+                    "true_off_start_src": 48.956,
+                    "off_start_sent": 0,
+                    "off_end_sent": 31,
+                    "mtype": "audio",
+                    "src_id": "48956_51418",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "о̄, укула̄дерэн тар.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "о",
+                    "wtype": "word",
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 1,
+                    "wf": "̄,",
+                    "wtype": "punct",
+                    "off_end": 3,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 4,
+                    "wf": "укула̄дерэн",
+                    "wtype": "word",
+                    "off_end": 15,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 16,
+                    "wf": "тар",
+                    "wtype": "word",
+                    "off_end": 19,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 19,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 20,
+                    "next_word": 5
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 20,
+                    "para_id": 7229
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "31.418",
+                    "off_end_src": "32.673",
+                    "true_off_start_src": 51.418,
+                    "off_start_sent": 0,
+                    "off_end_sent": 20,
+                    "mtype": "audio",
+                    "src_id": "51418_52673",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Тыкиттэн.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Тыкиттэн",
+                    "wtype": "word",
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0
+                },
+                {
+                    "off_start": 8,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 9,
+                    "next_word": 2
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 9,
+                    "para_id": 7230
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "32.715",
+                    "off_end_src": "34.147",
+                    "true_off_start_src": 52.715,
+                    "off_start_sent": 0,
+                    "off_end_sent": 9,
+                    "mtype": "audio",
+                    "src_id": "52715_54147",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Бурӣбуттэн тар.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Бурӣбуттэн",
+                    "wtype": "word",
+                    "off_end": 10,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 11,
+                    "wf": "тар",
+                    "wtype": "word",
+                    "off_end": 14,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 14,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 15,
+                    "next_word": 3
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 15,
+                    "para_id": 7231
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "34.147",
+                    "off_end_src": "35.11",
+                    "true_off_start_src": 54.147,
+                    "off_start_sent": 0,
+                    "off_end_sent": 15,
+                    "mtype": "audio",
+                    "src_id": "54147_55110",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Мēличим тар.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Мēличим",
+                    "wtype": "word",
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 8,
+                    "wf": "тар",
+                    "wtype": "word",
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 11,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 12,
+                    "next_word": 3
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 12,
+                    "para_id": 7232
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "35.133",
+                    "off_end_src": "36.344",
+                    "true_off_start_src": 55.133,
+                    "off_start_sent": 0,
+                    "off_end_sent": 12,
+                    "mtype": "audio",
+                    "src_id": "55133_56344",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ],
+            "last": true
+        },
+        {
+            "text": "Ну вот одна женщина там была, в Чумикане.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Ну",
+                    "wtype": "word",
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "off_start": 3,
+                    "wf": "вот",
+                    "wtype": "word",
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "off_start": 7,
+                    "wf": "одна",
+                    "wtype": "word",
+                    "off_end": 11,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "off_start": 12,
+                    "wf": "женщина",
+                    "wtype": "word",
+                    "off_end": 19,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 20,
+                    "wf": "там",
+                    "wtype": "word",
+                    "off_end": 23,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 24,
+                    "wf": "была",
+                    "wtype": "word",
+                    "off_end": 28,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 28,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 29,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 30,
+                    "wf": "в",
+                    "wtype": "word",
+                    "off_end": 31,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 32,
+                    "wf": "Чумикане",
+                    "wtype": "word",
+                    "off_end": 40,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 40,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 41,
+                    "next_word": 10
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 41,
+                    "para_id": 7210
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "0.241",
+                    "off_end_src": "3.689",
+                    "true_off_start_src": 0.241,
+                    "off_start_sent": 0,
+                    "off_end_sent": 41,
+                    "mtype": "audio",
+                    "src_id": "241_3689",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Когда спала, ей приснился сон.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Когда",
+                    "wtype": "word",
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 6,
+                    "wf": "спала",
+                    "wtype": "word",
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 11,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 13,
+                    "wf": "ей",
+                    "wtype": "word",
+                    "off_end": 15,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 16,
+                    "wf": "приснился",
+                    "wtype": "word",
+                    "off_end": 25,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 26,
+                    "wf": "сон",
+                    "wtype": "word",
+                    "off_end": 29,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 29,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 30,
+                    "next_word": 7
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 30,
+                    "para_id": 7211
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "3.839",
+                    "off_end_src": "5.789",
+                    "true_off_start_src": 3.839,
+                    "off_start_sent": 0,
+                    "off_end_sent": 30,
+                    "mtype": "audio",
+                    "src_id": "3839_5789",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Выпившая, видимо, была немного.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Выпившая",
+                    "wtype": "word",
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 8,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 10,
+                    "wf": "видимо",
+                    "wtype": "word",
+                    "off_end": 16,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 16,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 17,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 18,
+                    "wf": "была",
+                    "wtype": "word",
+                    "off_end": 22,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 23,
+                    "wf": "немного",
+                    "wtype": "word",
+                    "off_end": 30,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 30,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 31,
+                    "next_word": 7
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 31,
+                    "para_id": 7212
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "6.185",
+                    "off_end_src": "8.54",
+                    "true_off_start_src": 6.185,
+                    "off_start_sent": 0,
+                    "off_end_sent": 31,
+                    "mtype": "audio",
+                    "src_id": "6185_8540",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Ей приснился сон.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Ей",
+                    "wtype": "word",
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 3,
+                    "wf": "приснился",
+                    "wtype": "word",
+                    "off_end": 12,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 13,
+                    "wf": "сон",
+                    "wtype": "word",
+                    "off_end": 16,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 16,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 17,
+                    "next_word": 4
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 17,
+                    "para_id": 7213
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "8.875",
+                    "off_end_src": "10.135",
+                    "true_off_start_src": 8.875,
+                    "off_start_sent": 0,
+                    "off_end_sent": 17,
+                    "mtype": "audio",
+                    "src_id": "8875_10135",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Черный кто-то лег рядом с ней на ее кровать.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Черный",
+                    "wtype": "word",
+                    "off_end": 6,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "off_start": 7,
+                    "wf": "кто-то",
+                    "wtype": "word",
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "off_start": 14,
+                    "wf": "лег",
+                    "wtype": "word",
+                    "off_end": 17,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "off_start": 18,
+                    "wf": "рядом",
+                    "wtype": "word",
+                    "off_end": 23,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 24,
+                    "wf": "с",
+                    "wtype": "word",
+                    "off_end": 25,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 26,
+                    "wf": "ней",
+                    "wtype": "word",
+                    "off_end": 29,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 30,
+                    "wf": "на",
+                    "wtype": "word",
+                    "off_end": 32,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 33,
+                    "wf": "ее",
+                    "wtype": "word",
+                    "off_end": 35,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 36,
+                    "wf": "кровать",
+                    "wtype": "word",
+                    "off_end": 43,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 43,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 44,
+                    "next_word": 10
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 44,
+                    "para_id": 7214
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "11.202",
+                    "off_end_src": "15.176",
+                    "true_off_start_src": 11.202,
+                    "off_start_sent": 0,
+                    "off_end_sent": 44,
+                    "mtype": "audio",
+                    "src_id": "11202_15176",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Вот это, проснувшись, увидела:",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Вот",
+                    "wtype": "word",
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 4,
+                    "wf": "это",
+                    "wtype": "word",
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 7,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 8,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 9,
+                    "wf": "проснувшись",
+                    "wtype": "word",
+                    "off_end": 20,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 20,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 21,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 22,
+                    "wf": "увидела",
+                    "wtype": "word",
+                    "off_end": 29,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 29,
+                    "wf": ":",
+                    "wtype": "punct",
+                    "off_end": 30,
+                    "next_word": 7
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 30,
+                    "para_id": 7215
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "15.579",
+                    "off_end_src": "18.494",
+                    "true_off_start_src": 15.579,
+                    "off_start_sent": 0,
+                    "off_end_sent": 30,
+                    "mtype": "audio",
+                    "src_id": "15579_18494",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "лежит большой черный кто-то.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "лежит",
+                    "wtype": "word",
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 6,
+                    "wf": "большой",
+                    "wtype": "word",
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 14,
+                    "wf": "черный",
+                    "wtype": "word",
+                    "off_end": 20,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 21,
+                    "wf": "кто-то",
+                    "wtype": "word",
+                    "off_end": 27,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 27,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 28,
+                    "next_word": 5
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 28,
+                    "para_id": 7216
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "18.494",
+                    "off_end_src": "20.433",
+                    "true_off_start_src": 18.494,
+                    "off_start_sent": 0,
+                    "off_end_sent": 28,
+                    "mtype": "audio",
+                    "src_id": "18494_20433",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Он исчез.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Он",
+                    "wtype": "word",
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 3,
+                    "wf": "исчез",
+                    "wtype": "word",
+                    "off_end": 8,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 8,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 9,
+                    "next_word": 3
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 9,
+                    "para_id": 7217
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "20.466",
+                    "off_end_src": "21.888",
+                    "true_off_start_src": 20.466,
+                    "off_start_sent": 0,
+                    "off_end_sent": 9,
+                    "mtype": "audio",
+                    "src_id": "20466_21888",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "После этого не стало той женщины.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "После",
+                    "wtype": "word",
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 6,
+                    "wf": "этого",
+                    "wtype": "word",
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 12,
+                    "wf": "не",
+                    "wtype": "word",
+                    "off_end": 14,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 15,
+                    "wf": "стало",
+                    "wtype": "word",
+                    "off_end": 20,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 21,
+                    "wf": "той",
+                    "wtype": "word",
+                    "off_end": 24,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 25,
+                    "wf": "женщины",
+                    "wtype": "word",
+                    "off_end": 32,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 32,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 33,
+                    "next_word": 7
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 33,
+                    "para_id": 7218
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "22.066",
+                    "off_end_src": "24.694",
+                    "true_off_start_src": 22.066,
+                    "off_start_sent": 0,
+                    "off_end_sent": 33,
+                    "mtype": "audio",
+                    "src_id": "22066_24694",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Ну, не стало.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Ну",
+                    "wtype": "word",
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 2,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 3,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 4,
+                    "wf": "не",
+                    "wtype": "word",
+                    "off_end": 6,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 7,
+                    "wf": "стало",
+                    "wtype": "word",
+                    "off_end": 12,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 12,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 13,
+                    "next_word": 5
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 13,
+                    "para_id": 7219
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "25.611",
+                    "off_end_src": "27.044",
+                    "true_off_start_src": 25.611,
+                    "off_start_sent": 0,
+                    "off_end_sent": 13,
+                    "mtype": "audio",
+                    "src_id": "25611_27044",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Ну, в смысле, умерла после этого.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Ну",
+                    "wtype": "word",
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "off_start": 2,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 3,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "off_start": 4,
+                    "wf": "в",
+                    "wtype": "word",
+                    "off_end": 5,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 6,
+                    "wf": "смысле",
+                    "wtype": "word",
+                    "off_end": 12,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 12,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 13,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 14,
+                    "wf": "умерла",
+                    "wtype": "word",
+                    "off_end": 20,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 21,
+                    "wf": "после",
+                    "wtype": "word",
+                    "off_end": 26,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 27,
+                    "wf": "этого",
+                    "wtype": "word",
+                    "off_end": 32,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 32,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 33,
+                    "next_word": 9
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 33,
+                    "para_id": 7220
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "27.322",
+                    "off_end_src": "29.777",
+                    "true_off_start_src": 27.322,
+                    "off_start_sent": 0,
+                    "off_end_sent": 33,
+                    "mtype": "audio",
+                    "src_id": "27322_29777",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Всё.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Всё",
+                    "wtype": "word",
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0
+                },
+                {
+                    "off_start": 3,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 4,
+                    "next_word": 2
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 4,
+                    "para_id": 7221
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "31.524",
+                    "off_end_src": "32.264",
+                    "true_off_start_src": 31.524,
+                    "off_start_sent": 0,
+                    "off_end_sent": 4,
+                    "mtype": "audio",
+                    "src_id": "31524_32264",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Мне вот тоже снился сон дома.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Мне",
+                    "wtype": "word",
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 4,
+                    "wf": "вот",
+                    "wtype": "word",
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 8,
+                    "wf": "тоже",
+                    "wtype": "word",
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 13,
+                    "wf": "снился",
+                    "wtype": "word",
+                    "off_end": 19,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 20,
+                    "wf": "сон",
+                    "wtype": "word",
+                    "off_end": 23,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 24,
+                    "wf": "дома",
+                    "wtype": "word",
+                    "off_end": 28,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 28,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 29,
+                    "next_word": 7
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 29,
+                    "para_id": 7222
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "32.405",
+                    "off_end_src": "37.405",
+                    "true_off_start_src": 32.405,
+                    "off_start_sent": 0,
+                    "off_end_sent": 29,
+                    "mtype": "audio",
+                    "src_id": "32405_37405",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Тоже, такую же, тоже.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Тоже",
+                    "wtype": "word",
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 4,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 5,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 6,
+                    "wf": "такую",
+                    "wtype": "word",
+                    "off_end": 11,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 12,
+                    "wf": "же",
+                    "wtype": "word",
+                    "off_end": 14,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 14,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 15,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 16,
+                    "wf": "тоже",
+                    "wtype": "word",
+                    "off_end": 20,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 20,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 21,
+                    "next_word": 7
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 21,
+                    "para_id": 7223
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "37.894",
+                    "off_end_src": "40.924",
+                    "true_off_start_src": 37.894,
+                    "off_start_sent": 0,
+                    "off_end_sent": 21,
+                    "mtype": "audio",
+                    "src_id": "37894_40924",
+                    "src": "2019_Torom_MalyshevAF_LF5-0-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Кто-то пришел.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Кто-то",
+                    "wtype": "word",
+                    "off_end": 6,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 7,
+                    "wf": "пришел",
+                    "wtype": "word",
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 13,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 14,
+                    "next_word": 3
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 14,
+                    "para_id": 7224
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "21.518",
+                    "off_end_src": "22.421",
+                    "true_off_start_src": 41.518,
+                    "off_start_sent": 0,
+                    "off_end_sent": 14,
+                    "mtype": "audio",
+                    "src_id": "41518_42421",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Стал ложиться, когда я спал.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Стал",
+                    "wtype": "word",
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 5,
+                    "wf": "ложиться",
+                    "wtype": "word",
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 13,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 14,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 15,
+                    "wf": "когда",
+                    "wtype": "word",
+                    "off_end": 20,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 21,
+                    "wf": "я",
+                    "wtype": "word",
+                    "off_end": 22,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 23,
+                    "wf": "спал",
+                    "wtype": "word",
+                    "off_end": 27,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 27,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 28,
+                    "next_word": 7
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 28,
+                    "para_id": 7225
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "22.421",
+                    "off_end_src": "25.609",
+                    "true_off_start_src": 42.421,
+                    "off_start_sent": 0,
+                    "off_end_sent": 28,
+                    "mtype": "audio",
+                    "src_id": "42421_45609",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Большой кто-то.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Большой",
+                    "wtype": "word",
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 8,
+                    "wf": "кто-то",
+                    "wtype": "word",
+                    "off_end": 14,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 14,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 15,
+                    "next_word": 3
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 15,
+                    "para_id": 7226
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "25.609",
+                    "off_end_src": "27.171999999999997",
+                    "true_off_start_src": 45.609,
+                    "off_start_sent": 0,
+                    "off_end_sent": 15,
+                    "mtype": "audio",
+                    "src_id": "45609_47172",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Я спал, спал, спал.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Я",
+                    "wtype": "word",
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 2,
+                    "wf": "спал",
+                    "wtype": "word",
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 6,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 7,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 8,
+                    "wf": "спал",
+                    "wtype": "word",
+                    "off_end": 12,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 12,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 13,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 14,
+                    "wf": "спал",
+                    "wtype": "word",
+                    "off_end": 18,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 18,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 19,
+                    "next_word": 7
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 19,
+                    "para_id": 7227
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "27.342",
+                    "off_end_src": "28.951999999999998",
+                    "true_off_start_src": 47.342,
+                    "off_start_sent": 0,
+                    "off_end_sent": 19,
+                    "mtype": "audio",
+                    "src_id": "47342_48952",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Вот одеяло это самое сделав {дернув}, обернулся:",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Вот",
+                    "wtype": "word",
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "off_start": 4,
+                    "wf": "одеяло",
+                    "wtype": "word",
+                    "off_end": 10,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "off_start": 11,
+                    "wf": "это",
+                    "wtype": "word",
+                    "off_end": 14,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "off_start": 15,
+                    "wf": "самое",
+                    "wtype": "word",
+                    "off_end": 20,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "off_start": 21,
+                    "wf": "сделав",
+                    "wtype": "word",
+                    "off_end": 27,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "off_start": 28,
+                    "wf": "{",
+                    "wtype": "punct",
+                    "off_end": 29,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 29,
+                    "wf": "дернув",
+                    "wtype": "word",
+                    "off_end": 35,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 35,
+                    "wf": "},",
+                    "wtype": "punct",
+                    "off_end": 37,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 38,
+                    "wf": "обернулся",
+                    "wtype": "word",
+                    "off_end": 47,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 47,
+                    "wf": ":",
+                    "wtype": "punct",
+                    "off_end": 48,
+                    "next_word": 10
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 48,
+                    "para_id": 7228
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "28.956000000000003",
+                    "off_end_src": "31.418",
+                    "true_off_start_src": 48.956,
+                    "off_start_sent": 0,
+                    "off_end_sent": 48,
+                    "mtype": "audio",
+                    "src_id": "48956_51418",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "о, лежит тот.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "о",
+                    "wtype": "word",
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "off_start": 1,
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_end": 2,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "off_start": 3,
+                    "wf": "лежит",
+                    "wtype": "word",
+                    "off_end": 8,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 9,
+                    "wf": "тот",
+                    "wtype": "word",
+                    "off_end": 12,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 12,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 13,
+                    "next_word": 5
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 13,
+                    "para_id": 7229
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "31.418",
+                    "off_end_src": "32.673",
+                    "true_off_start_src": 51.418,
+                    "off_start_sent": 0,
+                    "off_end_sent": 13,
+                    "mtype": "audio",
+                    "src_id": "51418_52673",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Он упал.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Он",
+                    "wtype": "word",
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 3,
+                    "wf": "упал",
+                    "wtype": "word",
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 7,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 8,
+                    "next_word": 3
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 8,
+                    "para_id": 7230
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "32.715",
+                    "off_end_src": "34.147",
+                    "true_off_start_src": 52.715,
+                    "off_start_sent": 0,
+                    "off_end_sent": 8,
+                    "mtype": "audio",
+                    "src_id": "52715_54147",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Пропал он",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Пропал",
+                    "wtype": "word",
+                    "off_end": 6,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 7,
+                    "wf": "он",
+                    "wtype": "word",
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 9,
+                    "para_id": 7231
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "34.147",
+                    "off_end_src": "35.11",
+                    "true_off_start_src": 54.147,
+                    "off_start_sent": 0,
+                    "off_end_sent": 9,
+                    "mtype": "audio",
+                    "src_id": "54147_55110",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Я проснулся.",
+            "words": [
+                {
+                    "off_start": 0,
+                    "wf": "Я",
+                    "wtype": "word",
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "off_start": 2,
+                    "wf": "проснулся",
+                    "wtype": "word",
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                },
+                {
+                    "off_start": 11,
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_end": 12,
+                    "next_word": 3
+                }
+            ],
+            "lang": 2,
+            "meta": {
+                "speaker": ""
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 12,
+                    "para_id": 7232
+                }
+            ],
+            "src_alignment": [
+                {
+                    "off_start_src": "35.133",
+                    "off_end_src": "36.344",
+                    "true_off_start_src": 55.133,
+                    "off_start_sent": 0,
+                    "off_end_sent": 12,
+                    "mtype": "audio",
+                    "src_id": "55133_56344",
+                    "src": "2019_Torom_MalyshevAF_LF5-1-0.mp4"
+                }
+            ]
+        }
+    ]
+}
