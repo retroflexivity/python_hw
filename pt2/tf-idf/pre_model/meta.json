@@ -1,0 +1,71 @@
+{
+    "algorithm": {
+        "command": null,
+        "id": 4,
+        "name": "Gensim Continuous Bag-of-Words",
+        "tool": "Gensim",
+        "url": "https://github.com/RaRe-Technologies/gensim",
+        "version": "3.8"
+    },
+    "contents": [
+        {
+            "filename": "meta.json",
+            "format": "json"
+        },
+        {
+            "filename": "model.bin",
+            "format": "data"
+        },
+        {
+            "filename": "model.txt",
+            "format": "text"
+        }
+    ],
+    "corpus": [
+        {
+            "NER": true,
+            "case preserved": false,
+            "description": "Russian National Corpus",
+            "id": 87,
+            "language": "rus",
+            "lemmatized": true,
+            "public": false,
+            "stop words removal": "functional PoS",
+            "tagger": "UDPipe 1.2",
+            "tagset": "UPoS",
+            "tokens": 270000000,
+            "url": "http://ruscorpora.ru/"
+        },
+        {
+            "NER": true,
+            "case preserved": false,
+            "description": "Russian Wikipedia Dump of November 2021",
+            "id": 125,
+            "language": "rus",
+            "lemmatized": true,
+            "public": true,
+            "stop words removal": "functional PoS",
+            "tagger": "UDPipe 1.2",
+            "tagset": "UPoS",
+            "tokens": 918391485,
+            "tool": "https://github.com/RaRe-Technologies/gensim/blob/master/gensim/scripts/segment_wiki.py",
+            "url": "https://dumps.wikimedia.org/"
+        }
+    ],
+    "creators": [
+        {
+            "email": "andreku@ifi.uio.no",
+            "name": "Andrey Kutuzov"
+        }
+    ],
+    "dimensions": 300,
+    "documentation": [
+        "https://rusvectores.org"
+    ],
+    "external_id": "ruwikiruscorpora_upos_cbow_300_10_2021",
+    "handle": "http://vectors.nlpl.eu/repository/20/220.zip",
+    "id": 220,
+    "iterations": 10,
+    "vocabulary size": 249333,
+    "window": 10
+}
