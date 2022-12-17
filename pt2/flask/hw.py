@@ -92,6 +92,12 @@ def survey_page():
 @app.route('/submitted', methods=['get'])
 def submitted_page():
     db.create_all()
+    if not db.session.query(Question).first():
+        for i, t in questions:
+            db.session.add(Question(
+                id=i,
+                text=t
+            ))
     if not request.args:
         return redirect(url_for('survey'))
     
