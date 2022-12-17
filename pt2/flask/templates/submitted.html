@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     {{ head|safe }}
-    <title>результаты эксперимента аркадия шалдова</title>
+    <title>спс</title>
   </head>
 
   <body>
@@ -14,42 +14,14 @@
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
           <a class="nav-link" href="survey">собственно эксперимент</a>
-          <a class="nav-link active" href="stats">статистика</a>
+          <a class="nav-link" href="stats">статистика</a>
         </div>
       </div>
     </nav>
   
     <div class="container">
-      <h1>статистика</h1>
-
-      <h3>общая</h3>
-      <div class="row">
-      {% for t, num in stats.items() %}
-        <div class="col-sm-3">
-          <div class="card">
-            <div class="card-body">
-              <h5 class="card-title">{{ num }}</h5>
-              <p class="card-text">{{ t }}</p>
-            </div>
-          </div>
-        </div>
-      {% endfor %}
-      </div>
-
-      <h3>по вопросам</h3>
-      <div class="row">
-        {% for t, num in q_stats.items() %}
-          <div class="col-sm-3">
-            <div class="card">
-              <div class="card-body">
-                <p class="card-text">{{ t }}</p>
-                <h5 class="card-title">{{ num }}</h5>
-              </div>
-            </div>
-          </div>
-        {% endfor %}
-        </div>
-
+      <h1>спасибо</h1>
+      <p>за участие с эксперименте</p>
     </div>
 
 
