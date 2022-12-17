@@ -132,7 +132,7 @@ def data_page():
     stats['среди них нормальных людей'] = db.session.query(User.age).filter(User.bias == 'none').count()
 
     stats['среди них несовершеннолетних'] = db.session.query(User.age).filter(User.age < 18).count()
-    stats['среди них пенсионеров'] = db.session.query(User.age).filter(User.age <= 60).count()
+    stats['среди них пенсионеров'] = db.session.query(User.age).filter(User.age >= 60).count()
     stats['средний возраст'] = db.session.query(func.avg(User.age)).one()[0]
     stats['самому молодому участнику'] = db.session.query(func.min(User.age)).one()[0]
     stats['самому старому участнику'] = db.session.query(func.max(User.age)).one()[0]
